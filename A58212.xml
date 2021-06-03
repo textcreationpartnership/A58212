@@ -1,0 +1,865 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Reall and unfeigned testimonie concerning Iacob Beme of Old Seidenberg, in Upper Lausatia, or, The letters of two learned Germans, both acquaintance and lovers of this authour, called Teutonicus the first is an epistle of H.D.V., T. to H.P.V., H., dated the 3 of Octob., stilo novo, anno 1041, the second is an epistle of A.V., F. to D.O.B.J.O.S. the 21 of Octob. anno. 1641 / translated out of High Dutch, for benefit and information to those that read his writings.</title>
+         </titleStmt>
+         <extent>Approx. 99KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58212</idno><idno type="EEBO-CITATION">8224948</idno>
+  <idno type="VID">41110</idno>
+  <idno type="EEBO-PROQUEST">2248499375</idno>
+  
+            <idno type="STC">Wing R456</idno>
+            <idno type="STC">ESTC R24508</idno>
+            <idno type="OCLC">08224948</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A58212)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41110)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1238:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Reall and unfeigned testimonie concerning Iacob Beme of Old Seidenberg, in Upper Lausatia, or, The letters of two learned Germans, both acquaintance and lovers of this authour, called Teutonicus the first is an epistle of H.D.V., T. to H.P.V., H., dated the 3 of Octob., stilo novo, anno 1041, the second is an epistle of A.V., F. to D.O.B.J.O.S. the 21 of Octob. anno. 1641 / translated out of High Dutch, for benefit and information to those that read his writings.</title>
+               </titleStmt>
+               <extent>29, [17] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>Printed in the yeare 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata: p. [17] (2nd grouping)</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Böhme, Jakob, 1575-1624.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:41110:1"/>
+                  <pb facs="tcp:41110:1"/>
+                  <p>A reall and unfeigned TESTIMONIE, CONCERNING Iacob Beme Of OLD SEIDENBERG, in upper LAUSATIA.</p>
+                  <p>OR The LETTERS of two Learned Germans, both acquaintance, and Lo<g ref="char:EOLhyphen"/>vers of this Authour; called TEUTONICUS.</p>
+                  <p>The first is an Epistle of H. D. V, T. to H.P.V, H. Dated the 3. of <hi>Octob. Stilo novo,</hi> ANNO. 1641.</p>
+                  <p>The second is an Epistle of A. V, F. to D. O. B. J. O. S. the 21. of <hi>Octob.</hi> ANNO. 1641.</p>
+                  <p>
+                     <hi>Translated out of High Dutch, for Benefit and Infor<g ref="char:EOLhyphen"/>mation to those that read his Writings.</hi>
+                  </p>
+                  <p>Printed in the Yeare, 1649.</p>
+               </div>
+            </front>
+            <body>
+               <div type="letter">
+                  <pb facs="tcp:41110:2"/>
+                  <pb n="1" facs="tcp:41110:2"/>
+                  <head>
+                     <hi>THE FIRST EPISTLE.</hi> Grace, Peace, and Mercy; light, life, and power, from God our Father, and Jesus Christ our Lord.</head>
+                  <p n="1">
+                     <hi>1.</hi>
+                     <seg rend="decorInit">D</seg>EARE, and very worthy Friend, it doth in an especiall manner make me glad and rejoyce, that I find you have such an inti<g ref="char:EOLhyphen"/>mate intire thirst, after <hi>the precious Pearle, and faire Lilly of Paradise,</hi> Viz. after the light, and life of God; e<g ref="char:EOLhyphen"/>specially in this Age, which is so filled with the excesse of vanity, and iniquity; though <hi>Jesus Christ</hi> be richly Preached unto the World, and all flesh; but scarce known aright of any, or very few, according to the <hi>Spirit.</hi>
+                  </p>
+                  <p n="2">
+                     <hi>2.</hi> For when we search in the Writings of the Phylosophers and learned men, not onely those among the Heathens, but the Christians also, we shall finde, (when they write of the wisedome and knowledge of nature: and of all things) but very little, to shew, that they laid the right Foundation; and built up their building, from <hi>HIM</hi> whence all things doe Originally proceed; and whereupon they rest: namely, <hi>from God himselfe;</hi> where<g ref="char:EOLhyphen"/>by then it is an easy matter, to judge what kinde of building and structure that is, which standeth onely upon the sand and mirey Bog of selfe-wisedome, opinion and reason; and whether this their knowledge and science be true and reall; Or rather a <hi>mock wisedome,</hi> and a vapouring ostentation of knowledge, and the same of which <hi>Saint Paul</hi> saith, <hi>that it doth not edi<g ref="char:EOLhyphen"/>fy, but onely p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ffe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>h up.</hi>
+                  </p>
+                  <p n="3">
+                     <hi>3.</hi> Let a man but consider with himselfe, whether any can speak really, and essentially of a thing, without the true ground thereof; and how he can teach aright of nature, and the knowledge thereof without the very Creator of the same; and without the knowledge of <hi>HIM</hi> that hath founded it. How can there be light, where man maketh selfe the light, and where the Creature leadeth it selfe astray from its Creator? And how can that be wisedome, which layeth not its ground in the highest and essential wisedome, and doth not direct and lead us in, to that again; but onely to an Imaginary concern,
+<pb n="2" facs="tcp:41110:3"/> and phantasticall apprehension of wisedome; and to an unprofitable vapour and fruitlesse shew thereof?</p>
+                  <p n="4">
+                     <hi>4.</hi> And then it must needes follow, that they are altogether vaine in their Imaginations, and contrived inventions, and that their ignorant, misunder<g ref="char:EOLhyphen"/>standing <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eart, hath been but so much the more darkned; and because they have <hi>held themselves to be wise</hi> they have been therein but fooles in Gods account; whereby the glory of th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> h<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>g<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>le, imm<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>all God, hath been more and more changed, into an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ge of their own<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> vaine thoughts, and in<g ref="char:EOLhyphen"/>ven<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ed <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>pinions; and Man hath be<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n led away more <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re, from God, into his owne wis<gap reason="illegible" resp="#keyers" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>, selfe <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>nfidence, and h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ld presum<gap reason="illegible" resp="#keyers" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</p>
+                  <p n="5">
+                     <hi>5</hi> Now <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> away, this great evill, the mercifull God; did <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ince<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> raise <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> the pretious man <hi>I</hi> (<gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>) w<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>re al<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> us to the w<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>d of God, <hi>and</hi> the Ho<g ref="char:EOLhyphen"/>l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <hi>Co<gap reason="illegible" resp="#keyers" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>
+                     </hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> his Gospell, and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ichly shewed and <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <hi>of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>hrist,</hi> and <hi>F<gap reason="illegible" resp="#keyers" extent="5 letters">
+                           <desc>•••••</desc>
+                        </gap> him.</hi>
+                  </p>
+                  <p>
+                     <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he reach of reason and nature, <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> and <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd apprehended aright, by reason and <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <hi>Sect</hi> made thereof, in Generall: <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the externall and to the person of some <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> the shell, but let the internall, <hi>Viz.</hi> the kernell <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <hi>Viz.</hi> in the cold fruitlesse <hi>Theory,</hi> and bare <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> not rega<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ding the spirit, [and <hi>Practice</hi>].</p>
+                  <p n="7">
+                     <hi>7.</hi> Whereas unwi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hstanding, <hi>that</hi> is the most pretious ground, wherein <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> be rea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ly renewed and <hi>b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rne againe:</hi> wherein the <hi>holy Spirit</hi> (if we saith<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>y seek, and minde it) <hi>is given unto us: which then l<gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>d <gap reason="illegible" resp="#keyers" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> into all truth:</hi> and doth teach and open in us, all that is good, and nece<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ry to Salvation, and the honour of God; by which gift of the holy <hi>Gospe<gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>,</hi> G<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d hath here and there dispensed unto men, all manner of gifts in all kindes of wisedome and knowledge: but therewith Errors also and Tares have <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eene sowne; by the Enemy, as <hi>Experience</hi> doth more then e<g ref="char:EOLhyphen"/>nough, alas! de<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>onstrate</p>
+                  <p n="8">
+                     <hi>8.</hi> At this our ti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e when the <hi>Phylosophy</hi> of the Noble ground of the <hi>Gospell,</hi> and our Fai<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h is thought to be studyed out and fortifyed: and now when reason supposeth that it is ascended up to the height, with its wisedome and Arts, God hath stirred up this our deare <hi>Jacob Be<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e;</hi> a plaine un<g ref="char:EOLhyphen"/>learned <hi>T<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>adesman;</hi> who could scarce write; and gifted him with such a Noble end<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>wment of <hi>
+                        <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>he U<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>iversall knowledge of God and Nature;</hi> and shewene him <hi>the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>entre of all Beings;</hi> how all things arise from God Ori<g ref="char:EOLhyphen"/>ginal<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y: consi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t in God, and againe returne, and flow in to him &amp;c. there<g ref="char:EOLhyphen"/>by to call man t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the knowledge of God, of himselfe, and all things; that he might turne himselfe, fr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m the corrupt, dark Being of this World, to <hi>Christ</hi> the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nely ligh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>; depend wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lly on him; and be regenerate, and illuminate in him; and so reach and obtaine the limit and end of his Creation, Redemption, and the Calling of the holy spirit; <hi>according to the measure of Faith,</hi>
+                     <pb n="3" facs="tcp:41110:3"/> here in this [life] time; and hereafter Perfectly to all eternity.</p>
+                  <p n="9">
+                     <hi>9.</hi> This high rare and pretious gift (which hath not been manifested in the <hi>like</hi> manner and <hi>degree,</hi> height and depth, breadth and length, <hi>before</hi> these times) our <hi>Jacob Beeme,</hi> learned in God, hath employed in all faithfullnesse and simplicity, and laid it forth, as it was given and imparted to him: and in all his writings, hath laid his <hi>ground</hi> in <hi>God,</hi> and hath reared up his whole building, very deepely founded, from <hi>HIM:</hi> As <hi>Christ</hi> speaketh of <hi>the wise Master builder,</hi> that he <hi>digged deepe and laid his Foun<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ation on a Rock, whereupon he built his Towre on high.</hi>
+                  </p>
+                  <p n="10">
+                     <hi>10.</hi> As it is clearely to be seene; h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>w he doth all along, drive and presse at God, Christ, and his spirit, at faith and love<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>; at the mortifying of the old, and the ren<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>vati<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n of the new man, and in breif, at the Restoration in Christ, of Gods Image, <hi>in us,</hi> which did disappeare in <hi>Adam,</hi> and is become half dead; and as to Salvation in it selfe, and in the Elements of this World, is <hi>quite</hi> dead; and especially how he doth discover, and admonish us about the destructive Babel that abominable and pernitious <hi>Turba <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>agna,</hi> which doth so exceedingly hinder and keepe men back (in their darkenesse, in the forestalled conceit of light, and love to their owne will;) from the reall con<g ref="char:EOLhyphen"/>templation of God: to the end, that we should labour and use all diligence to be freed from that falsehood darkenesse, and captivity, thr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ugh the <hi>grace and light of God in us.</hi>
+                  </p>
+                  <p n="11">
+                     <hi>11.</hi> Also he sheweth the order, harmony, and birth, of all things; how and wherein each thing standeth, in its due order; and to what it tendeth, and how in the whole vniversall nature there is a continuall, uncessant mo<g ref="char:EOLhyphen"/>ving, drawing, and attraction, or a <hi>magicall</hi> and <hi>magneticall</hi> wrestling; and how all things doe subsist, by the power of the yet uncessantly working <hi>word</hi> of Gods <hi>Fiat;</hi> and hold their analogy, and orderly proportion in the wisedome of Gods wonders: whereby it may be seen, wha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the fall of <hi>Luci<g ref="char:EOLhyphen"/>fer</hi> was; also what <hi>Man</hi> was, in his first noble excellencie and true nature from the Creation; and how he is corrupt by the fall of <hi>Adam:</hi> and a<g ref="char:EOLhyphen"/>wakened and called unto life again by <hi>Christ,</hi> the <hi>essentiall</hi> word of love.</p>
+                  <p n="12">
+                     <hi>12.</hi> But he doth <hi>not</hi> expresse this and set it forth, with wordes of <hi>Scholastique</hi> knowledge, and contrived Art, of wisedome in <hi>Babel;</hi> and of <hi>her</hi> Builders: but as it was given him according to the know<g ref="char:EOLhyphen"/>ledge of nature, in <hi>his</hi> owne <hi>Gift.</hi> Now albeit such <hi>termes</hi> &amp; <hi>phrases</hi> as he doth use, might at first appeare, (to one that is unaccustomed to them,) very hard, and <hi>harsh;</hi> and might seeme darke and obscure, yet time, and the diligence of an observant <hi>Reader,</hi> that earnestly desires knowledge for his edification, will, (by the indwelling grace of God, together with ex<g ref="char:EOLhyphen"/>perience,) so bring him into a right apprehension thereof, that what seemed difficult, and darke before, at <hi>leng<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>h</hi> will be plain, cleare, and <hi>easy;</hi> as it hath hapned to my selfe, in many things.</p>
+                  <p n="13">
+                     <hi>13,</hi> Therefore let no man marvaile or be offended, and complaine; that
+<pb n="4" facs="tcp:41110:4"/> it is expressed in such a manner, <hi>stile</hi> or <hi>phrase;</hi> for it is the <hi>Gift</hi> of God, who doth <hi>therewith</hi> what he pleaseth; But unto the Children of the <hi>My<g ref="char:EOLhyphen"/>stery,</hi> who are capable, and worthy of this <hi>Gift,</hi> (If they doe but seriously and d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ligently seek, and persevere therein,) it will <hi>plainly</hi> appeare, and they shall finde by <hi>Experience,</hi> that the expressions are very <hi>Proper</hi> and <hi>Exact,</hi> essentiall and good, in themselves; but hidden unto the high and se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> wiselings: yea they are as a stone of stumb ing and offence; and a <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ortresse before the Mystery, so that they runne upon it, stumble and become m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re and more blind.</p>
+                  <p n="14">
+                     <hi>14.</hi> For the Phylosophy and Divinity of our deare <hi>Jacob Beme,</hi> is a very noble, pretious, and deep ground: An Ʋniversall thing, reaching it se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>se f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rth into all things; Especially, the Doctrine, of <hi>the Three Principles,</hi> whi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h have their Originall in the holy <hi>Trinity;</hi> Albeit the <hi>third Principle</hi> must be rightly distinguished from the other two. But I have according to the grace whi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h God hath lent unto me; truely and conscientiously, weighed and examined, the gift and Doctrine [or <hi>Experimentall Essayes</hi>] of this high-illuminate man and have found them to be <hi>Wholly</hi> Spirituall; and very distinct, an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> discreet: and that they doe not so much as <hi>once</hi> clash against <hi>any Article of the Christian Faith,</hi> (Which is much to to be ad<g ref="char:EOLhyphen"/>mired in this Gre<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t and Large, and all-comprizing Knowledge; where he setteth all in such true Order, right distinction, and understanding) but he do<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h v<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ry, emphati<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ally, and <hi>Convincingly</hi> clear and confirme<note n="*" place="margin">The Arti<g ref="char:EOLhyphen"/>cles of Chri<g ref="char:EOLhyphen"/>stian Faith.</note> them: And it is a light and Birth [or Manifestation] of this time [and Age,] such a one as hath <hi>not as yet</hi> been re<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ealed; and opened so properly, exactly, and plainly, shewing <hi>What God and Nature is.</hi>
+                  </p>
+                  <p n="15">
+                     <hi>15.</hi> Yea this knowledge in respect of its true Demonstrative ground, Ʋ<g ref="char:EOLhyphen"/>niversall light, and large comp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ehension, is even <hi>THAT,</hi> wherein all Na<g ref="char:EOLhyphen"/>tions, Turkes, Heathens, and Jewes; And all Sects, and Heresies: be they as Subtile and Cunning as i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>de, yet may be <hi>convinced</hi> in a rationall way; for therein is exac<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> to be seen, how the <hi>ground</hi> and <hi>meanes</hi> is layd downe and declared, to the taking away of the <hi>Vaile,</hi> wherewith <hi>all Nations</hi> and <hi>Doctrines</hi> are covered, darkened, or h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oded up.</p>
+                  <p n="16">
+                     <hi>16.</hi> Also therein is to be seene, how the Axe is layd to the root of the great Tree, of <hi>Nebuchadnezz<gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>,</hi> and to the whole Growth thereof; and also to the Great Building and S<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ture in Babel; and thereby the <hi>Tur<g ref="char:EOLhyphen"/>bi M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>gna,</hi> and gre<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t Confu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ion, is discovered, and brought to light; which verily i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> not the w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rke of a Man, but the Gift, and worke of God; and f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r certain <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hall have its e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>fe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t, in its due time: but the great <hi>Judge<g ref="char:EOLhyphen"/>ments</hi> must find precede or f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re-run; wherein wee see how at present, whole Ch<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>endome standeth, and as yet shall stand, in a worse po ture: Seein<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> all things must be Judged aforehand; and Babel mu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t at la<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t de<g ref="char:EOLhyphen"/>s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>roy it selfe, but the Anti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hri<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t <hi>shall be slaine by the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>pirit of</hi> Christs <hi>Mouth</hi>
+                  </p>
+                  <p>
+                     <hi>1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</hi> Now as this Pearle, and this Lilly-twig, which is so deep and high,
+<pb n="5" facs="tcp:41110:4"/> so rare and excellent, noble and precious, was <hi>not</hi> Communicated unto the Author by Man, but imparted from the <hi>deep spirit</hi> of the <hi>Revelation</hi> and <hi>Wisedome</hi> of God: So likewise the same, is especially to be sought for (in true faith, a Childlike purpose, and in a Divine fixed resolution, and humble confidence) from the true Light, and right giver of all good Gifts; and to be learned, and obteined through much diligence, <hi>Exercise</hi> and peculiar <hi>Experience,</hi> in the wayes of God, and <hi>under the</hi> Crosse <hi>of</hi> Christ; for as <hi>this</hi> Gracious Revelation, is a Gift of God; so also the Gift of God is required, that men may come rightly to know and understand the same.</p>
+                  <p n="18">
+                     <hi>18. The Lord our God, and Father of our Lord Jesus Christ; the Father of lights, and all good gifts;</hi> illuminate your heart and minde, and open unto you the heart of his Love, in <hi>Christ,</hi> that you may come to the knowledge of Himselfe, his Sonne, and all things; in the instruction, and inhabitation of his holy Spirit: <hi>Amen.</hi>
+                  </p>
+               </div>
+               <div type="letter">
+                  <pb n="6" facs="tcp:41110:5"/>
+                  <head>
+                     <hi>THE SECOND EPISTLE.</hi> The Noble <hi>Sophia</hi> from above, make the hearts of those that love it rejoyce, and worke in them an holy will; well-pleasing unto GOD.</head>
+                  <p n="1">
+                     <hi>1.</hi>
+                     <seg rend="decorInit">B</seg>ELOVED in the Beloved: I have with an especiall observation, taken notice, that there are not onely every where, such as are meere Enemies, and Contemners of the <hi>Heavenly Marriage;</hi> as alas! too too many in this our distressed native Countrey, but yet in some places there are Loving Friends, and well-wishers (albeit in the lesser number) to be found, who very di<g ref="char:EOLhyphen"/>ligently and seriously, <hi>Seeke</hi> after the <hi>hid<g ref="char:EOLhyphen"/>den wisedome,</hi> and so farre as they persevere, and hold out, doe at length in a glorious, and worthy manner, <hi>enjoy</hi> their Divine, pleasant, and chaste Love, with superabundant joy and satisfaction to their resigned soules in the spirit and truth.</p>
+                  <p n="2">
+                     <hi>2.</hi> To this <hi>hidden Manna,</hi> and true divine and supernaturall<note n="*" place="margin">The honey dew of Hea<g ref="char:EOLhyphen"/>ven and the food of An<g ref="char:EOLhyphen"/>gels.</note>
+                     <hi>Nectar and Ambrosia,</hi> the victorious and triumphant voice of the great <hi>Jehovah,</hi> hath called and invited us, in this our new beginning Age, of the blessed<note n="†" place="margin">
+                        <hi>Aur(eae H)orae,</hi> or Golden hour.</note>
+                     <hi>Morning,</hi> with the sound of his Trumpet: in that instrument and <hi>wit<g ref="char:EOLhyphen"/>nesse of Jesus Christ</hi> (though indeed rejected of man, yet especially chosen of God,) <hi>Jacob Beme</hi> of <hi>Old Seidenb<gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>e</hi> late Denizen at <hi>Gerlitz.</hi> Who in his profound and deepe-grounded writings, (<hi>surpassing</hi> the reach of Nature,) hath plainly hinted unto us, into what time we are fallen and what is yet to be further expected (and enacted) by the Generations to come, in the great wonders, and workes of God; so that now it is our time to arise from the drunken drowsinesse, of <hi>Great Babel;</hi> and to goe out, to meet the Bridegroome that calleth and kno<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>keth.</p>
+                  <p n="3">
+                     <hi>3.</hi> For certainty, this blessed man, (now rep<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>sed in God,) was a burning light, and it is likely, that new wonderfull starre <hi>Mystically,</hi> and <hi>miraculously</hi> appearing in the skie; which in the yeare <hi>1572</hi> (beeing two yeares before his birth, did remarkeably shew it selfe, in the <hi>Cassiopaea
+<pb n="7" facs="tcp:41110:5"/> &amp; via lacto<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>,</hi> or Saint <hi>Jacobs</hi> white path, unto the European Nations, for a speciall pregnant signe of a <hi>Totall New birth</hi> [and manifestation] out of the upper fiery Christalline waters; to the stirring up of <hi>many</hi> profound, learned, and deep searching mindes: And as one effect thereof, he happi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y finished his last Mysticall Booke, which as he often told me by word of mouth, was most <hi>worthy the reading:</hi> Viz. <hi>the Mysterium Magnum</hi> [or Commentary] upon <hi>Genesis,</hi> in the yeare <hi>1623.</hi> (being from the yeare <hi>1604.</hi> and <hi>1607.</hi> (when the New starres appeared againe) the <hi>Exit</hi> of the seaven or seaventh Trigonall Conjunction, and the eighth from the seventh Centrall Beginning) Whereupon in the yeare following, namely, <hi>1624.</hi> in the <hi>Jubilee,</hi> or fiftieth yeare of his Age, according to the Mystery, he returned unto his <hi>Grave,</hi> or re-entred into the <hi>Magicall,</hi> and <hi>Mentall Principle.</hi>
+                  </p>
+                  <p n="4">
+                     <hi>4.</hi> Although at first, the<note n="*" place="margin">His first Booke.</note>
+                     <hi>Aurora,</hi> in its rising (which is, the root, or Mother of <hi>Phylosophy, Astrologie,</hi> and<note n="†" place="margin">Divinity.</note>
+                     <hi>Theologie,</hi> &amp;c.) and also the little Book of <hi>The way to Christ</hi> (which beginneth, according to the order of the New Testament with <hi>Repentance,</hi> and <hi>Faith,</hi> to the Entrance into the holy Kingdome of God) and then also <hi>his owne person;</hi> and af<g ref="char:EOLhyphen"/>terward his <hi>dead Corps,</hi> and at last the poore <hi>Grave, and wodden Crosse</hi> in the Church-yard; were with blind furious zeale, and very unbeseem<g ref="char:EOLhyphen"/>ing behaviour, abused, assaulted, and defaced; and yet those things were never brought to a due [Legall] hearing: neither was this blessed <hi>J. B.</hi> convicted of any errour in the Evangelicall Faith; but much rather (as it appeares by his Life and Conversation; also by his Sound Writings con<g ref="char:EOLhyphen"/>cerning <hi>Election,</hi> and the two Testaments [Viz. <hi>Baptisme, and the Lords Supper</hi>] as also concerning the <hi>Suffering, Death, and Resur<g ref="char:EOLhyphen"/>rection of Jesus Christ</hi>) he was found stedfastly to continue unto his ve<g ref="char:EOLhyphen"/>ry end, in the pure, and un-sophisticated <hi>Lutheranisme;</hi> besides what he hath sufficiently declared, in a peculiar <hi>Apology,</hi> upon the false and hear<g ref="char:EOLhyphen"/>say Censure of <hi>Gregory Rickter, Primarius, Anno 1624.</hi> who was Primate of <hi>Gerlitz.</hi>
+                  </p>
+                  <p n="5">
+                     <hi>5.</hi> And the contention about the <hi>Sealed Grave</hi> of <hi>Christ;</hi> and of his faithfull witnesse <hi>J.</hi> B. is of like importance and consequence, as that a<g ref="char:EOLhyphen"/>bout blessed <hi>Luther,</hi> which at <hi>Wittenberg</hi> was environed, and molested by the Northerne and Southerne people (not to speake of the Easterne and Westerne Nations) and yet (although dearly purchased) it hath prospe<g ref="char:EOLhyphen"/>rously remained under the <hi>Electorall Highnesse</hi> his Protection, so that both of the past and present Age, <hi>the two</hi> dear and faithfull <hi>witnesses,</hi> of the true, clear, and pure Evangelicall light and righteousnesse, like <hi>Moses,</hi> have remained in their <hi>Graves</hi> undisquieted, by the Babylonians; and the Evan<g ref="char:EOLhyphen"/>gelicall Christendome hath an especiall remarkable, reall, and wonderfull <hi>Signe,</hi> whereby they may know the gracious visitation of God, and his spirit in <hi>Christ Jesus,</hi> their onely and Eternall head and <hi>Saviour.</hi>
+                  </p>
+                  <p n="6">
+                     <hi>6.</hi> Therefore this Our age <hi>ought</hi> seriously to consider these wonderfull
+<pb n="8" facs="tcp:41110:6"/> Writings, <hi>immediately</hi> revealed, and Communicated from God, that they are not, as the Books of other men, scrap't together by the spirit of Astrall wit, or earthly Reason, patching and piecing, picking and choosing, here and there, according to its fansie, Notionall hints, and Astrall glances of illumination; now writing, and then cancelling, adding or interlining; but they are writ<g ref="char:EOLhyphen"/>ten by the Author himselfe, with the <hi>overshadowing,</hi> and indwelling co-ope<g ref="char:EOLhyphen"/>ration of the Great and <hi>secret Spirit of God</hi> throughout, with one conti<g ref="char:EOLhyphen"/>nued draught, and instinct of the given, and not taken or usurped Pen: of which I my selfe, with many more, are eye witnesses; and that from the very Originall Copy, and hand writing of the Author; and therefore they are to be looked upon and judged far otherwise, then with the eyes of Com<g ref="char:EOLhyphen"/>mon <hi>Hystoricall Reason.</hi>
+                  </p>
+                  <p n="7">
+                     <hi>7.</hi> Not to mention, that the fulnesse of time is <hi>not yet come,</hi> wherein these, and other Wonders hidden hitherto, might be generally, fully, and <hi>satisfactorily</hi> knowne and received: Also this worke is not to be undertaken and mastered, or censured with unwashed hands, but it must be begun and carryed on stedfastly, and constantly with all un-interrupted diligence, in the sweat of the face, with a holy spirit, and such a will of the mind, as is wholly and onely sacrificed, and devoted to <hi>God;</hi> yet so as continued and accom<g ref="char:EOLhyphen"/>plished in God and by God, with Christ, and his holy Spirit of grace, whereby also the hidden Kingdome of God, and therein the <hi>Sealed Image</hi> of Jesus Christ, is opened againe; and very prosperously and effectually advanced in the desiring Seekers, and lovers of the glory of our Lord and Saviour Jesus Christ, with inward entire light, and Eternall joy, and jubelizing Tryumphant melodies of heart; to the glory of the most High, and to the salvation of our Soules, and our Sences, which are departed from the Divine light and righ<g ref="char:EOLhyphen"/>teousnesse; the losse of which is infinitely more then the gaine of the whole World; and which to obtaine, <hi>we must lose our selves, and all that we have</hi> in us, in God the highest and chiefest good; and so we shall for ever finde true constant rest, and assured Peace, onely in the Pierced living Rock, and heart of Jesus Christ, <hi>Amen.</hi>
+                  </p>
+                  <p n="8">
+                     <hi>8.</hi> To which High, and happy End, we ought on all sides, by the assistance and helpe of the Divine grace, to put forth our selves (so far as is possible in this mortality) without any lingering <hi>Delayes;</hi> and so labour to enter into the light, and walke in it, while we have it, and so injoy it here in <hi>Time,</hi> and hereafter in <hi>Eternity. O Jesu! the Onely and Reall Light and Salvation of our Soules,</hi> which is come into the World, to free us from the power of Night, and of Darknesse, and Eternall Death; grant us, and give us This, So be it, <hi>Amen. Amen.</hi>
+                  </p>
+                  <figure/>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:41110:7"/>
+                  <p>A WARNING FROM Iacob Beem THE <hi>Teutonique Phylosopher,</hi> To such as reade his Writings.</p>
+                  <p>OR, An Extract of diverse Passages out of His Writings, for information to those that read them.</p>
+                  <p>
+                     <hi>Prove all things: hold fast that which is good.</hi>
+                  </p>
+                  <p>Note; That this Warning is gathered out of di<g ref="char:EOLhyphen"/>verse of the Authors Books, and Epistles, and put into such order and forme of a continued Speech, by the Translator.</p>
+                  <p>Printed in the Yeare, 1649.</p>
+               </div>
+            </front>
+            <body>
+               <div type="text">
+                  <pb facs="tcp:41110:8"/>
+                  <pb n="11" facs="tcp:41110:8"/>
+                  <head>A WARNING From J. B. T. TO THE READER.</head>
+                  <p n="1">1. <seg rend="decorInit">L</seg>ET the Reader be warned, not to search further in these very deep Writings, or to ascend higher with his will, and to imagine deeper <hi>then hee apprehendeth:</hi> let him alwayes rest satisfyed in the Capacity, reach [and Comprehension of his understanding] for in the com<g ref="char:EOLhyphen"/>prehension, he standeth yet in the Es<g ref="char:EOLhyphen"/>sence, where he erreth not, how deep so ever the Spirit leads him: For, <hi>farre more</hi> will be given to one then to ano<g ref="char:EOLhyphen"/>ther; onely this is the bound, marke, or limit, that every one con<g ref="char:EOLhyphen"/>tinue stedfast in <hi>humility</hi> towards God; and wholly resigne up him<g ref="char:EOLhyphen"/>selfe to God, that God may worke in him the will, and the deed, as he pleaseth.</p>
+                  <p n="2">2. When thou doest this, then thou art as dead in thy selfe; for thou desirest nothing but Gods will, and the will of God is thy life; which goeth in it selfe inwardly, even unto the<note n="*" place="margin">The Crowne of Virgin So<g ref="char:EOLhyphen"/>phia.</note>
+                     <hi>Thousandth Num<g ref="char:EOLhyphen"/>ber,</hi> and searcheth the Depths of the Deity with all wonders: He leadeth thy will, resigned to him, into the Virgin of his Wisedome, that thou mayst contemplate, and see all wonders; but thou mayst not set thy Imagination, off from <hi>him,</hi> into the wonders; so soone as thou doest so, thou departest from Gods will, which is the Eter<g ref="char:EOLhyphen"/>nall Liberty, and art Captivated in thy owne Imagination: Marke this; for every Imagination maketh an Essence, and therein thou standest; and thou must get out thence againe, or thou <hi>seest not</hi> God.</p>
+                  <p n="3">3. Therefore Christ teacheth us Humilty, Love, Mercy, purity of heart, and commandeth us to seeke in Gods will, and to resigne up our selves thereunto; for in Gods will wee may doe <hi>all</hi> things: Our owne nature must not doe it, but God himselfe is zealous <hi>in Ʋ S;</hi> and he is our <hi>deed,</hi> or Actor, if we worke any wonder: For
+<pb n="12" facs="tcp:41110:9"/> no humane Soul shall say, or thinke, I will doe wonders; no that cannot be, for the wonders surpassing the outward Nature, proceed all only from the Centre of the Eternall Nature out of the<note n="*" place="margin">The Eternall fi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e.</note>
+                     <hi>Tenth Number;</hi> Which the Creature <hi>cannot</hi> [reach into:] But if it be resigned unto the will of God, then God doth wonders in the Crea<g ref="char:EOLhyphen"/>ture; For it is his pleasure to manifest himselfe in the weake [in the low, meeke and humble mind,] for the <hi>strong</hi> is stiffe in his owne will, and will not resigne and surrender it to God; He trusteth to himselfe in his owne wit.</p>
+                  <p n="4">4. Thus his will is without God, and can doe nothing; and if he then speaketh of the Being, and will of God, he is a Lyer, for he speaketh not from the spirit, and will of God; but from his owne selfe, from his owne weening, and <hi>Conjecture;</hi> In which is meer doubt [and uncertainty, albeit he may alleadge, quote, and draw never so many sayings of other men according to his apprehension to confirme his opinion and way,] And hence arise, the many di<g ref="char:EOLhyphen"/>visions, Controversies, and contentions, about Faith, and divine knowledge, that men goe about to seeke God in their owne will, and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>kill; men would find God in their owne will, and he is <hi>not</hi> therein; for he dwelleth onely in that will, which resigneth it selfe up with all its reason, and skill to <hi>HIM;</hi> to such an one he giveth reall living knowledge, and power; to know and understand his <hi>Being.</hi>
+                  </p>
+                  <p n="5">5. Therefore we shall be dumb, dark, and hystoricall to every one that is not borne of God; For we are according to the outward man in this World and according to the inward in God: the inward man borne of God speaketh of the Kingdome of Heaven, and the outward spirit produced from the <hi>Principle</hi> of this World, speaketh of this World; Thereupon one mans understanding is far other<g ref="char:EOLhyphen"/>wise then another; all, according as every one is <hi>Gifted with Wise<g ref="char:EOLhyphen"/>dome,</hi> so he apprehendeth, and so he interpreteth.</p>
+                  <p n="6">6. Every one will not understand my Writings according to my minde, [meaning, and understanding,] yea <hi>perhaps</hi> not one: but <hi>every one</hi> receiveth according to his Gifts, for his edification, and pro<g ref="char:EOLhyphen"/>fit; according as the spirit hath its propertie, [forme, and Idea] in him.</p>
+                  <p n="7">7. He that will not seeke <hi>thereby,</hi> [to be] a new man, borne in God, [or the regeneration in the spirit of Christ] and wholly, and unfeignedly apply himselfe thereto, let him let my Writings alone, and leave them uncensured; I have written nothing for such a Seeker; also he will <hi>not be able wholly</hi> to understand our meaning though hee excerciseth [and striveth] much about it, unlesse he entreth into the <hi>Resignation</hi> in <hi>Christ;</hi> and there he may obtain, and apprehend the spirit of the <hi>Ʋniversall,</hi> else all will be to no pur<g ref="char:EOLhyphen"/>pose; and we will warne the curious, <hi>Critick,</hi> speculator, and rationall
+<pb n="13" facs="tcp:41110:9"/> Artist; that he <hi>amuse not</hi> himselfe; he effecteth nothing in this way, except he himselfe entreth thereinto, and then it will be manifest unto him <hi>without much</hi> seeking, for the way is plain and <hi>Childlike,</hi> and it is truely, and faithfully Declared, and described <hi>in my Wri<g ref="char:EOLhyphen"/>tings.</hi>
+                  </p>
+                  <p n="8">8. Let no man blind-fold himselfe in respect of the simplicity of this hand: for we must be Children if we will finde <hi>the Lilly</hi> of the holy Plant, and <hi>enter into the Kingdome of Heaven;</hi> our desire must onely be directed in all plainenesse, and down-right syncerity, unto our first Mother again; from whom we are departed in <hi>Adam,</hi> and become <hi>Selfists;</hi> we must goe out from, and disclaim our reason, and step into the obedience of our first <hi>Eternall</hi> Mother, and then we receive the spirit and life of the Mother, and then also we <hi>know</hi> her habitation, and her food.</p>
+                  <p n="9">9. Indeed it lyeth not in the power of outward reason; but to the spirit of God there is nothing impossible: and if we be the Chil<g ref="char:EOLhyphen"/>dren of God, and regenerate again of God in Christ; the Sonne may well see what the Father doth in his House, and also learne his Art, and worke: If we then be the Mystery of God, we ought not to think, as if we might not dare to meddle with Mysteries, as <hi>Anti<g ref="char:EOLhyphen"/>christ teacheth;</hi> For none can take unto himselfe any thing of Gods Mysteries, unlesse it be given him; and Saint <hi>James</hi> saith, <hi>Every good, and perfect gift commeth downe from above, from the Father of lights, with whom there is no change, or alteration.</hi>
+                  </p>
+                  <p n="10">10. We have in our Writings, set you downe according to the true ground, what man was before his fall, what he is now in the fall, and what he is again in the New-birth; and also what he shall be after this life: for we know what he is in death, and what in life; also we know, what he is in Hell: also we have set you downe the whole ground of the Divine Being; and also of the Creation of all things: of that which is Eternall, and of that which is cor<g ref="char:EOLhyphen"/>ruptible: and how every thing is made, and come to be as it is, and also what it shall be afterwards; and therein lyeth <hi>the Key of the Grand Mystery,</hi> so far as a <hi>Creature</hi> is <hi>able</hi> to <hi>comprehend</hi> and <hi>beare.</hi>
+                  </p>
+                  <p n="11">11. And this we have done, not from our owne wit and reason, as if it were greater then any mans living; but in the Mothers bosome, in the mothers spirit: I am dead and as a nothing; when I speake and write so, I write not from my <hi>Selfe;</hi> but from the knowledge and seeing of the Mother: and yet I live in care, trouble, and labour, in feare, and trembling, and in temptation, like other men; for I have <hi>Adams</hi> skin and live in the hope of <hi>Israel:</hi> This I write that the Reader might know, wherein my knowledge and skill standeth; that so he seek not that by me, which I am not; for I am <hi>no more</hi> then all other men, who in <hi>Christ Jesus our King</hi> wrestle for the <hi>Crowne</hi> of
+<pb n="14" facs="tcp:41110:10"/> Eternall joy, and live in the <hi>hope</hi> of perfection, &amp;c.</p>
+                  <p n="12">12. The Reader may perhaps wonder how a plain <hi>Lay-man</hi> could come to understand such high things, having never read them, nor heard them from any man; but I tell you, that which you see set down in my Writings is <hi>but a glimps</hi> of the Mysteries; a man can<g ref="char:EOLhyphen"/>not write them: if God shall count <hi>you</hi> worthy to have the light enkindled in your soul, you would see, tast, smel, feele, and heare, unspeakable words of God, concerning this knowledge; and therein is the true <hi>Theosophicall School of Pentecost,</hi> where the Soul is taught of God; <hi>Christ</hi> saith <hi>Mat.</hi> 7.7. <hi>Seek and you shall finde, knock and it shall be opened unto you:</hi> Also, <hi>my Father will give the ho<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>y spirit, to them that aske him for it.</hi> If the Soul yeild it selfe up to wisedome, for a full possession, then shee penetrateth through it, with her flaming fire of love, and <hi>unlocketh</hi> all Mysteries unto the Soule: none can give it to another, every one must get it himselfe of God; one may well give a manuduction, or <hi>Direction</hi> to another, but he cannot give him the understanding.</p>
+                  <p n="13">13. I have no other cause, and incitement to write, but only from a desire of upright love, towards Gods Children; that I might once re<g ref="char:EOLhyphen"/>create and refresh my selfe with them; I doe it not for any Tem<g ref="char:EOLhyphen"/>porall wealth, honour, or gifts, <hi>But for the hope of Israel,</hi> that in the other life I might eternally rejoyce and triumph with my Brethren, and then my labour which here I performe in love towards them, shall be <hi>well</hi> recompensed; therfore I am in good earnest, seeing Christ faithfully warneth us, <hi>Not to hide our Talent under the napkin, or bury it in the earth. Mat.</hi> 25. <hi>Luke</hi> 19. Therefore, <hi>We ought not greatly to be affraid of man, who can onely kill the body, and then can doe no more: but feare him that is able to destroy both body and soul, and cast them into Hell, Mat.</hi> 10.</p>
+                  <p n="14">14. I declare in the presence of God, as I shall answer it before his Judgement where all things shall <hi>appeare,</hi> and every one shall give an account of his deeds; that I my selfe know not how it comes to passe, with me, save onely that I have a fiery incitement, or strong driving and instigation in my will: I know not also what I shall write, for when I write, the spirit dictates to me, in great and wonderfull knowledge; insomuch that I often know not <hi>whether</hi> according to my spirit, <hi>I be in this World or no,</hi> and at this I doe exceedingly re<g ref="char:EOLhyphen"/>joyce, where then sure and certain knowledge is imparted to me, and the more I seeke the more I finde; and continually deeper, that I oft times account my sinfull Person too mean, low, and unworthy, to set upon such Mysteries; but then the spirit setteth up my <hi>Banner,</hi> and saith, <hi>Arise thou shalt eternally live therein, and be Crowned there<g ref="char:EOLhyphen"/>with, why art thou amazed?</hi>
+                  </p>
+                  <p n="15">15. Seeing therefore I have an effectuall knowledge in the light and power; it is a meere Gift of God, who likewise in such sort,
+<pb n="15" facs="tcp:41110:10"/> giveth me a driving will thereto, so that I must write what I see and know; thereupon I must obey God rather then man, least my<note n="*" place="margin">Bishoprick, or Ministry.</note>
+                     <hi>Office</hi> be taken away from me and given unto another, which verily would <hi>for ever greive me:</hi> and albeit while I live I shall obtain smal thankes from some, who love their Belly, more then God and the Kingdome of Heaven, yet my writings have their Gifts, and are for their time; for they have a very rare pretious and earnest<note n="†" place="margin">Originall.</note>
+                     <hi>Birth,</hi> and rise, there is many a noble Rose bud conteined in them, which by reason of the great darkenesse in <hi>Babel</hi> cannot be knowne, and ac<g ref="char:EOLhyphen"/>knowledged, but <hi>there is a Time,</hi> whereto it belongeth; according to its spirit.</p>
+                  <p n="16">16. I am verily a simple man, and have neither Learned, nor after this manner, sought after this high Mystery, nor knew I any thing of it, I onely sought the heart of love in <hi>Jesus Christ</hi> and when I had ob<g ref="char:EOLhyphen"/>tained that with great Joy of my soul, then was <hi>this Treasure</hi> of Na<g ref="char:EOLhyphen"/>turall and divine knowledge, opened and given unto me; where<g ref="char:EOLhyphen"/>with I have not hitherto proudly prancked and vaunted, but desired from my heart and earnestly sought of God, whether the time was come that this knowledge might be revealed, in the hearts of many: concerning which I also obtained a very powerfull and <hi>Effectuall Answer,</hi> so that I well know, what I have hinted and signified in my writings.</p>
+                  <p n="17">17. And although I am therefore despised and hated of many in the World, yet men shall see very shortly, wherfore God hath opened unto a simple plaine Lay-man <hi>The Grand Mystery,</hi> that is, the ground of all secrets and Mysteries; and I <hi>may not reveale all,</hi> that is made knowne unto me; and yet it might verily be revealed <hi>unto</hi> worthy men; if I found that it were the will of God and profitable to man: Doe not so greatly wonder at the simplicity wherewith God doth it; for the time of the proud and haughty is drawing to a pe<g ref="char:EOLhyphen"/>riod.</p>
+                  <p n="18">18. I warne and exhort the Reader in the love of Christ to <hi>try</hi> and <hi>examine</hi> my writings with a right Christian minde, and then his eyes will be opened that he shall see, and understand, and it is my Prayer to God, for the true earnest seeker, that he may be <hi>Crowned</hi> with the fair Garland of Divine honour, in the knowledge of the wisedome, that so he may have <hi>no need</hi> to use eyther mine or others Writings for the knowledge of God; but know the Lord in himselfe, as the like is hapned [or granted] to mee: from which I write, and make use of nothing else; for it is written, <hi>They shall all be taught of God, and know the Lord, I will powre out my Spirit upon all flesh:</hi> Also <hi>Your Daughters and your Sonnes shall prophecy and your young men shall see Visions;</hi> wherefore then will men despise and contemne this, when <hi>God</hi> powreth forth his spirit upon so simple a man, that he must write,
+<pb n="16" facs="tcp:41110:11"/>
+                     <hi>above</hi> the reason of <hi>all</hi> men, yea <hi>deeper</hi> then the Foundation of this World is?</p>
+                  <p n="19">19. Deare <hi>Christians,</hi> it proceeds from Gods love towards <hi>you;</hi> that you might once see the root, and ground of your <hi>School contenti<g ref="char:EOLhyphen"/>ons</hi> [and controversies of scholastique Reason] for many have sought but not at the right place, [Marke, or Gate,] whence they have fallen into contending, disputing, wrangling, and verball jangling; which hath filled the World, and almost quite destroyed all brotherly Love; therefore God calleth you with an <hi>higher</hi> voice, that you might see whence all things, both good and evill doe arise, and pro<g ref="char:EOLhyphen"/>ceed Originally, to the end yee should cease from strife, and learne to know him, really, and fundamentally; which hath been hid from the Time of the World hitherto, and hath been onely revealed in the Children of the Saints.</p>
+                  <p n="20">20. If you have a <hi>desire</hi> and delight to read my Writings, read them diligently, and especially apply your selves to the<note n="*" place="margin">Note.</note>
+                     <hi>Centre</hi> of all Beings; and then the <hi>Three Principles</hi> will be plaine and easie to you, and I know and am assured that if you apprehend the Centre in the spirit, that it will afford you such joy as farre <hi>surpasseth</hi> the joy of the whole World; for the precious<note n="*" place="margin">The P<gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>losophers Stone.</note> Stone of the wise men lyeth there<g ref="char:EOLhyphen"/>in, which giveth the certainety, and reall ground of all things; it freeth man from all trouble [and perplexive thoughts] in the con<g ref="char:EOLhyphen"/>troversies of <hi>Religion;</hi> and it openeth unto him the highest Mystery that is in him; it bringeth that worke to which nature hath chosen him, to the <hi>highest</hi> perfection; and it is able to see into the heart of every thing; is not this a <hi>Jewell</hi> surpassing all the treasure and riches of the World?</p>
+                  <p n="21">21. Our Writing, standeth upon the ground of <hi>the holy Scripture;</hi> and it is no fiction or strange invention of reason, or a novelty, and innovation foysted in from an Astrall instigation; it is <hi>not</hi> New, and there shall also be nothing new save onely the true knowledge, in the holy spirit, of <hi>the Being of all Beings;</hi> we write what the time hath brought forth and manifested; and if it were not revealed by man, yet the <hi>Beasts</hi> must reveale it, for the time is borne, and there is no withholding, the most High accomplisheth his wo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ke; my Writings are not written for the wise and prudent of this World, for the Fat Swine of the Devill, who contemne the light of nature, and walke in bruitish wayes, but for the hungry Seeking Children of God, who shall professe the Kingdome of Heaven: We must give <hi>bread</hi> to the Children that are worthy, that they may eate, and praise our Father in Heaven; <hi>but not cast Pearles before Swine.</hi>
+                  </p>
+                  <p n="22">22. Do not account it a jesting matter, which God now out of his Love <hi>revealeth</hi> unto us; doe but seriously consider what this mani<g ref="char:EOLhyphen"/>festation and revelation betokeneth; which is now presented unto
+<pb n="17" facs="tcp:41110:11"/> the World; looke not upon the simplicity, by which God doth it, it seemes good in his sight, and it is well pleasing unto him, to m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>nifest his might in the <hi>weake</hi> and <hi>foolish,</hi> as the World accounts them; it is brought to passe for Instruction to the World; seeing all live in contention, and will not suffer <hi>his spirit</hi> to draw them; that they might know Gods Kingdome to be <hi>within us;</hi> now therefore the Centre of his Being, and of all Beings, is revealed unto them; all this befalleth us from his gracious Love towards us, to the end we might leave off from the miserable strife and contention, and enter into a brotherly, and childlike <hi>Love.</hi>
+                  </p>
+                  <p n="23">23. No selfe wit obtaineth the Crown of Gods Mystery, although we write deeply and profoundly thereof, yet the <hi>understanding</hi> is not our owne, but it belongeth to the <hi>Spirit</hi> of the Mother; he speaketh and expresseth by his Children, what he pleaseth; hee manifesteth himselfe diverse manner of wayes, in one farre otherwise then in a<g ref="char:EOLhyphen"/>nother; for his wonderfull wisedome is an <hi>infinite</hi> unfathomable depth; and you need not marvell that the Children of God use not all one <hi>phrase</hi> and style; for to every one is imparted, what he shall open, and manifest in God; that the great Mysteries and Wonders, which were <hi>foreseen</hi> from Eternity, in his wisedome, might be revealed and made knowne.</p>
+                  <p n="24">24. Every one speaketh from the wisedome of the Mother, whose number is infinite and unsearchable; but the <hi>Centre</hi> or bound mark, is the <hi>Heart</hi> of God; they all runne thither; and that is the proofe [or <hi>Touch-stone</hi>] whereby you shall know whether the spirit speak<g ref="char:EOLhyphen"/>eth from God, or from the Devill; for the Devill hath also a <hi>Matrix</hi> and therein are his Children, who speake also from the spirit of <hi>their</hi> Mother, from their <hi>Selfe,</hi> and not from the spirit of Christ; for they have not the filiall spirit of humility in obedience, and love to<g ref="char:EOLhyphen"/>wards the Mother, much lesse towards the Children; they also doe not live in the wonders of the Mother, in her humility and Purity; but in their owne Conjecture and conceit, in an <hi>Antichristian shew of holinesse,</hi> devout Hypocrisie and pride, and tread, plaine downeright humility, under foot.</p>
+                  <p n="25">25. But if we be too hard, and difficult to the <hi>Reader;</hi> we doe admonish him in Love, that he would pray unto God in the name of <hi>Jesus Christ,</hi> for the illumination of his holy Spirit; that he would be pleased to enlighten him, for without that, hee will understand nothing; we write from another Principle; no Reader understands us in the true ground, unlesse his minde be new borne in God; there is a strong enclosed Fortresse before it, that must first be open<g ref="char:EOLhyphen"/>ed; and that no man can doe, onely the <hi>holy spirit</hi> is the opener and unlocker.</p>
+                  <p n="26">26. Therefore he that will have an open gate into such Mysteries;
+<pb n="18" facs="tcp:41110:12"/> he must be <hi>Regenerate</hi> anew of Christ, of Christs flesh and blood, of that word which became man, and walke in Gods love; and then he will attain unto the <hi>right</hi> understanding, and esteem it as a great Jewell, for the minde gives not over till it comes into the most inner ground.</p>
+                  <p n="27">27. Onely we will faithfully warne the Reader as he loveth his own Soul, and Eternity: to beware of doubting, unbeleife, and con<g ref="char:EOLhyphen"/>tempt, least in any wise he <hi>Dally</hi> with the high Mysteries and thereby blaspheme the holy spirit of God; and his minde become like <hi>Lu<g ref="char:EOLhyphen"/>cifer,</hi> when he saw the greatest Mystery, and the Deity to stand in such humility, he was offended, and turned himselfe from the light of love, and entred into the strong might of the fire, and would in his owne wit, and cunning craft, Lord it over God; quite contrary to the right of eternity: God should be subject to him; he would be a former in nature, and rule the magicall ground, as a peculiar Lord, and Artist; he would play and sport with the <hi>Centre</hi> of the <hi>Transmutation</hi> of the properties; and doe all things, as he listed and pleased, and despised Gods love and humilitie, and therefore he was cast out of his owne creaturall place into the eternall darkenesse into the <hi>Abysse</hi> of the <hi>Austere Fiat,</hi> and there he must remaine to his E<g ref="char:EOLhyphen"/>ternity, had he but imagined into the light of the majesty, as the o<g ref="char:EOLhyphen"/>ther angelicall Thrones: he had still been an <hi>Angell:</hi> but he went himselfe out of Gods love into the anger, thus now he is a Devill, <hi>Viz.</hi> An Enemy of Gods love and all holy Angels: for in love, meek<g ref="char:EOLhyphen"/>nesse, and humility, consisteth the Kingdome of Heaven, and the An<g ref="char:EOLhyphen"/>gelicall World, and the power of the heart of God.</p>
+                  <p n="28">28. But that selfe-reason which without Gods spirit is onely let<g ref="char:EOLhyphen"/>ter-learned doth taunt, cavile, and contemne, all that doth not punctually agree, and conform to the Cannons, Rules, and Institutions of the <hi>Vniversities,</hi> and high Schooles, I wonder not: for it is from without, (but Gods spirit is from within) it is good and evill: it passeth like the wind and is driven too and fro; it <hi>esteemes</hi> mans Judgement: and according as the high and <hi>Great ones</hi> who have the respect and authoritie of the World doe judge and censure, just so it gives its credit, and verdict, it knoweth not the minde of the Lord, for the same is not <hi>in it:</hi> its understanding is from the Stars, and 'tis nothing else but a counterfeit shadow of Phancy in comparison to the divine wisedome.</p>
+                  <p n="29">29. Although the Children of God have not all one gift, stile, and forme of expression, (for knowledge is manifold:) yet it be<g ref="char:EOLhyphen"/>hooveth us to try their heart and <hi>will:</hi> now when we finde that they arise and spring from one Centre, namely from the spirit of Christ; we should of right rest satisfyed on the Centre, and commend the expression to the <hi>Highest</hi>
+                     <note n="*" place="margin">Or, <hi>Lan<g ref="char:EOLhyphen"/>guage.</hi>
+                     </note>
+                     <hi>Tongue, Viz.</hi> To the spirit of Gods wise<g ref="char:EOLhyphen"/>dome,
+<pb n="19" facs="tcp:41110:12"/> which through the wisedome doth open, and reveale to every one, in his eternal soulish Constelation, according to the manner, and measure as he pleaseth, therefore it is a very unjust and unchristian course, for the Antichrist to rage, and rave, reproach, and revile, when the gifts of God doe appeare in a divserse manner in men, having not all one knowledge: what <hi>can</hi> a man receive, unlesse the same be <hi>borne</hi> in him?</p>
+                  <p n="30">30. Judge no man, for the proud censure and false bablings of reason, where men contemne and condemne the gifts of the spirit, and onely looke upon the bare controversy, and dispute about the <hi>Letter</hi> [Exchanging Scripture for Scripture;] is onely <hi>Babel,</hi> a Mother of spirituall whoredome, where reason would alwayes faine be the fairest Childe in the house; men must honour and <hi>adore</hi> it.</p>
+                  <p n="31">31. The spirit of God himselfe judgeth, all things; if that be in us, why should we then amuse and <hi>Captivate</hi> our minds with such prating? should we not much rather rejoyce at the gifts of our Bre<g ref="char:EOLhyphen"/>theren: if they have had other gifts to expresse then we: should we therefore judge them? doth any hearb flower or tree say unto the other, thou art sowre and unlovely, I will not stand by thee? have they not all one Mother whence they grow? even so all soules pro<g ref="char:EOLhyphen"/>ceed from <hi>one;</hi> and all men from <hi>one,</hi> why then doe we boast and glory to be the Children of God; notwithstanding that we are more unwise, then the flowers and hearbes of the field. Is it not so with us? doth not God impart, and reveale his wisedome to us diversly, as he bringeth forth and manifesteth the <hi>Tincture</hi> of the <hi>Mystery</hi> in the Earth with fair Plants and flowers; even so in <hi>us</hi> men; we should rather congratulate, and heartily love one another, that God re<g ref="char:EOLhyphen"/>vealeth his wisedome so variously in us?</p>
+                  <p n="32">32. Therefore know, he that judgeth and condemneth in a wick<g ref="char:EOLhyphen"/>ed way, and runs on in pride to shew himselfe, <hi>he</hi> is the <hi>Opressour</hi> in <hi>Babel</hi> [The great hunter the mighty Nimrod] a<note n="*" place="margin">
+                        <hi>Or,</hi> a whir<g ref="char:EOLhyphen"/>ling Wheele.</note> perverse stick<g ref="char:EOLhyphen"/>ler that stirreth up contention, and strife: a true Christian hath contention with none in reference to the different Gifts; he can unite and <hi>reconcile</hi> them all in himselfe, he brings them only unto the Centre, and there he hath the Touchstone of all things [and can rightly distinguish betweene good and evill:] here deare Brethren lyeth the Pearle, the Grand Mystery, and without this, all Seeking and Searching is dead, and obtaines not the Virgins Crowne [The Pearl of Sophia] but onely Thornes and Briers, that sting and gall the Children of God.</p>
+                  <p n="34">34. The <hi>Touchstone</hi> of knowledge, is first the true Corner-stone <hi>Jesus Christ:</hi> that man may see whether a thing proceed from love, and tend unto love: whether or no the love of God [and the <hi>good of our Neighbour,</hi> in all humility, meekenesse, and selfe deniall] be
+<pb n="20" facs="tcp:41110:13"/> sought and desired? or whether it proceed out of pride, [and a singular Pharisaicall scorn;] Secondly it is the <hi>holy Scriptures,</hi> the Bi<g ref="char:EOLhyphen"/>ble; And thirdly, it is the <hi>heart and Soul of man,</hi> Wherein the Book of Gods life is imprinted, and incorporate; and it may very well be read by Gods Children; where then the upright syncere mind hath its <hi>Touchstone</hi> in it selfe, and is able to distinguish and difference all things aright. If the holy spirit dwel<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eth in the ground of the minde; Man hath a sufficient Touchstone; The same will lead him into all truth.</p>
+                  <p n="35">35. Deare Christians, consider this aright, become members of Christ: and grow as living Branches, in the tree of Christ; Read with deligence and Observation <hi>The Epistles of Paul:</hi> and see how we must enter into the suffering and death of Christ, and dye from the old Earthly man, and step into an upright love and Unity.</p>
+                  <p n="36">36. For sure and undoubted it is: that there is <hi>no spirit of Christ</hi> in contention, and contempt; in disputing, and dispising one another; but onely a Painted Image and representation of Phancy without life and knowledge. Consider that we are Branches in one onely Tree; the same Tree is Christ, and God is Christs Tree.</p>
+                  <p n="37">37. Why doe we then contend so much about knowledge; knowing is not alone the way unto Salvation! <hi>The Devill knowes more then we;</hi> what doth that helpe him? nothing at all! For that I know much, gives me no joy: but that I love my Saviour Jesus Christ; and continually desire him, this affords me joy; for the de<g ref="char:EOLhyphen"/>siring, is a receiving.</p>
+                  <p n="38">38. I know nothing, I desire also to know nothing; neither have I sought ever any knowledge, for I am a <hi>Child,</hi> and a nothing in the knowledge? I am willing also to know nothing; that so I may be dead and as a nothing in the knowledge, that God in the spirit of Christ may be my knowing, willing, and also doing, that so I may run in his knowledge and will: and not <hi>I,</hi> but <hi>H E:</hi> that <hi>I</hi> may be onely the Instrument, and <hi>H E</hi> the hand which worketh.</p>
+                  <p n="39">39. To what end then will you Contend so much with me? I know nothing of your knowledge neither have I ever learned it; seeke your selves (in <hi>whom</hi> the knowledge <hi>is,</hi>) wherein I know, seeing I am dead in knowing, for his sake, that will know in me.</p>
+                  <p n="40">40. I doe not first gather Sayings, and litterall Notions in my knowledge, out of many Bookes, together: but I have the Letters <hi>in me;</hi> doth not Heaven and Earth, and all things lye <hi>in man;</hi> yea God himselfe, and should he not then dare to read in that Book which he <hi>himselfe</hi> is?</p>
+                  <p n="41">41. If I had no other Book, but onely my Booke which I my selfe am, I had Books <hi>enough;</hi> the <hi>whol Bible</hi> lyeth in me, if I have the spirit of Christ! what need I then any more Books? shall I contend about
+<pb n="21" facs="tcp:41110:13"/> that which is without me, before I learne to know what is within me?</p>
+                  <p n="42">42. When I read my Selfe; then I read in <hi>Gods</hi> Booke; and yee my loving Brethren are altogether the Letters, that I read in me; for my minde and will findeth you in me; and I wish from my heart that ye also could finde me.</p>
+                  <p n="43">43. I admonish you as Brethren and Children, from my <hi>precious Talent;</hi> that you leave off contending and read the Brotherly<note n="*" place="margin">Ʋpright Christian love.</note> A.B. C. in you; for it is a vaine and unprofitable thing; and altogether unavailable in the presence of God, to contend about the Letters. Are they not in <hi>all men!</hi> the <hi>Country-man</hi> is as learned, and nigh un<g ref="char:EOLhyphen"/>to the Kingdome of Heaven as the <hi>Doctor,</hi> if he read the brotherly<note n="*" place="margin">Ʋpright Christian love.</note> A. B. C. in him.</p>
+                  <p n="44">44. No knowledge makes you happy; but that you enter into that you know, and become doers of the knowledge; not proud, ambitious, aspiring, stiff-conceited, wild, dry branches; but living in the Tree of God, where one branch doth mutually and lovingly <hi>impart</hi> sap and life unto another.</p>
+                  <p n="45">45. Alas! how doth the Mother complaine of some of you, that you are dry revolting Branches, unprofitable Suckers and Dreiners; it is told you that the withered Branches shall be cut off, for the Tree shall<note n="†" place="margin">Restituti O Renovatio M Reditus N Reparatio I Regeneratio Ʋ Revolutio M</note>
+                     <hi>Renew</hi> it selfe, and manifest its first forme and feature; for the End belongeth to the Beginning.</p>
+                  <p n="46">46. But if you shall despise all that is at present declared unto you, and not returne into your selves, and <hi>learne</hi> to read your owne Booke; then shall an Axe from the <hi>East</hi> and <hi>South</hi> cut you downe, that you shall never say, I read in strange Bookes, or feed in a strange pasture.</p>
+                  <p n="47">47. God hath sent his<note n="*" place="margin">
+                        <hi>Christ Jesus</hi> the essentiall word of Love.</note> heart with his life into us, wherein <hi>all is written;</hi> he that reads this Booke in himselfe, is learned enough; the <hi>other Learning</hi> is but <hi>Babel,</hi> and Fable; that one will be learned in the Letters without him, before he can read his owne Booke; if he first read his <hi>owne,</hi> he should therein find <hi>all</hi> what ever the Chil<g ref="char:EOLhyphen"/>dren of God have written.</p>
+                  <p n="48">48. For we Men have but one onely Book, which directeth and sheweth us to God; and that we have in Common; every one hath it in himselfe: that is, the high exceeding precious <hi>Name</hi> of God; its <hi>Letters</hi> are the flames of Love, which he our of his heart in the precious Name <hi>JESƲS</hi> hath manifested in <hi>ƲS;</hi> reade onely these Letters in your heart and minde; and then you have Bookes enough; all the Writings of the Children of God, doe direct you in<g ref="char:EOLhyphen"/>to this onely Book; for all the <hi>Treasures</hi> of wisedome lye therein; give heedfull diligence, that you be borne againe in the Life, and in the spirit of Christ, and then <hi>you have all what God is, and can doe.</hi>
+                  </p>
+                  <p n="49">
+                     <pb n="22" facs="tcp:41110:14"/>49. But yee are drunck, and goe astray, and seek the <hi>Key</hi> to the Book, and <hi>contend</hi> about the Key: every one saith, I have the Key; and none will open his owne lifes Book: every one might have the Key to God in himselfe if he sought it in the <hi>right</hi> place; but you choose rather to contend, then to seek the Key in you: therefore you are blind even all of you that contend; ye Court your owne de<g ref="char:EOLhyphen"/>lusive shadowes of Phancy; and doe as one that beats the Aire, wherefore doe you not goe into the <hi>Centre?</hi> with such kinde of seeking, you finde not the Key, be as learned as ever you will: it <hi>hel<g ref="char:EOLhyphen"/>peth not.</hi>
+                  </p>
+                  <p n="50">50. It doth not lye in Art and reason, but in an earnest resolved fixed will to goe out from selfe, and forsake all selfe knowledge, and to cast your selves with a penitent humble desire into Gods knowledge, and disclaime all your own knowing, and desire nothing but Gods knowing; yet in that manner that he may know in you what he <hi>pleaseth:</hi> and so you shall attain divine knowledge, and <hi>finde the Key,</hi> for which you contend.</p>
+                  <p n="51">51. Loving Sirs, and Bretheren in Christ; become Schollers of the wisedome of God, let no man say of himselfe that he understands it: we know nothing of God, what God is, Gods spirit must be the knowing in us: else our knowledge is but a Fable, a continuall <hi>con<g ref="char:EOLhyphen"/>fusion,</hi> alwayes learning, and yet understand nothing, of the ground in the Centre.</p>
+                  <p n="52">52. What is it, that I am able to speake and dispute much of wisedome, out of the Writings of others; and could even con the whole <hi>Bible</hi> by heart and yet understood nothing, what the wise<g ref="char:EOLhyphen"/>men have spoken, from their spirit, and knowledge: if I have not likewise <hi>the same spirit,</hi> which they have had, <hi>how can I</hi> understand them?</p>
+                  <p n="53">53. To such knowledge as this, no conjecturall supposals, and bringing together abundance of <hi>Texts</hi> and Sayings to ratifie and con<g ref="char:EOLhyphen"/>firme what we intend and conclude upon, doth belong: no Saint, or wiseman hath done so: but there belongeth a living spirit out of God; which is able to looke into the Mystery, and walk in its owne pecu<g ref="char:EOLhyphen"/>liar knowledge.</p>
+                  <p n="54">54. <hi>Gods spirit</hi> must be in the reason, if reason will see God: an hum<g ref="char:EOLhyphen"/>ble resigned heart is required therto, and no proud contemning boa<g ref="char:EOLhyphen"/>sting in the reason: where reason vaunts, and pretends an illuminate <hi>[right-rectifyed]</hi> judgement; this is nothing else but an Astrall Sydereall [starry outward] illumination; whereby it becomes subtile, and quick of apprehension.</p>
+                  <p n="55">55. Is any man a child of God; then let him seek <hi>The good of his Brother</hi> in the love of God: and then I can trust him: but if he be a Reviler [and a demure Pharisaicall scorner] he hath put on the
+<pb n="25" facs="tcp:41110:14"/> Monstrous Cap of the Devill, and walketh in pride: such an one is no Christian, but a titular<note n="*" place="margin">Text, mouth-Christian.</note> Christian: a Christian from the teeth out<g ref="char:EOLhyphen"/>ward: a confounding Babel; and all contemptuous disdainfull, <hi>Contentious Bookes and Pamphlets</hi> are such a <hi>Babel;</hi> that cause con<g ref="char:EOLhyphen"/>fusion.</p>
+                  <p n="56">56. If we did shew one another the way of God, in love, humility, and in the feare of God, as it becometh the Children of God: there would not be such <hi>Contention</hi> and contempt in the World: whereby the simple Lay-man is deceived, and misled; and falleth to con<g ref="char:EOLhyphen"/>temne, condemne, and despise his Brother, which is not of his <hi>Opinion,</hi> and Name of Religion; and yet knowes no cause at all: and the one is as blind in Religion (which without the spirit, and power of God, is nothing but an invention, and conjecture) as the other.</p>
+                  <p n="57">57. For true Religion doth not consist onely in outward words, in devout shewes: in verball confessions, and outward professions: but in <hi>Living</hi> working, effectuall <hi>Power,</hi> that one desireth, from the ground and bottom of his heart, to practice and effect, that which he knoweth, in <hi>love towards another.</hi>
+                  </p>
+                  <p n="58">58. It must come to the practice and deed; or else it is nothing but a Painted feighned faith; an historicall <hi>Babel:</hi> where Gods spirit is not; there is no faith; also no Christian: but where it is, there it worketh meer workes of love, it teacheth and reproveth meekly, and <hi>mildly,</hi> it is not puffed up, and disdainfull; as the Pharisaicall <hi>Reason in Babel.</hi>
+                  </p>
+                  <p n="58">58. Where there is a good spirit in man, there it should <hi>draw good out of evill, and not pervert</hi> any thing <hi>to a wrong sence and use:</hi> the spirit of God seeketh nothing else but good; he contendeth with none, he loveth man: and where he is in man, there he driveth him to love and humility towards his neighbour: he teacheth and instruct<g ref="char:EOLhyphen"/>eth with meeknesse, mildnesse, and forbearance as a loving <hi>Father</hi> his Children; he doth not push with the horn of revilement and scorne, he cometh not with thunder and lightning: like the Anger in the Fathers Nature, on the <hi>Mount Sinai,</hi> and also by <hi>Elias:</hi> but with a still soft voyce, as <hi>in the Day of</hi> Pentecost.</p>
+                  <p n="59">59. God hath Regenerated us againe in Christ, in <hi>Love;</hi> and <hi>not</hi> in the property of the <hi>Fire:</hi> to the end we should meet and prevent each other, in a kind Christian friendly will: with all moderate, modest, and mild deportment, and syncerity; entreat and admon<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>sh each other as Bretheren; we must helpe the weake: and direct those that goe astray, and lovingly shew them the way: not presently cast them into Gods Anger, into the Hellish fire, as the proud Pharisai<g ref="char:EOLhyphen"/>call reason in <hi>Babel,</hi> that spits out hell and damnation, against those that are not of his <hi>Sect.</hi> way, and <hi>Opinion.</hi>
+                  </p>
+                  <p n="60">60 <hi>Christ</hi> said <hi>whosoever shall say unto his Brother thou</hi> Foole: <hi>he is
+<pb n="26" facs="tcp:41110:15"/> is guilty of Hell fire: or</hi> Racha, <hi>He is in danger of the Councell;</hi> But what shall he be worthy and guilty of that calls his Brother <hi>a Devill,</hi> and condemnes him to Hell-fire: O man! Consider thy selfe, turne away, from such a way.</p>
+                  <p n="61">61. We have however in this Valley of misery, in our Pilgrimage a very small path, and narrow way into <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he Kingdome of God: Is it Christian like to beat and hurle downe one another? doth any man err and goe astray, let another shew him the way: let us deal with one another as Bretheren.</p>
+                  <p n="62">62 We are altogether borne blind: but beeing that fight is granted unto us out <hi>of grace:</hi> wherefore will not one Brother be<g ref="char:EOLhyphen"/>teeme eyes unto another? Every one seeth as God granteth him, as the sight is given unto him; why should one envy and hate another, in that respect? Seeing he knowes not what the Lord hath given him.</p>
+                  <p n="63">63. Ah alas! how miserable is our time: how doth the Devill bestir himselfe, to take us in his nets, and gins? that one Brother doth vilify, reproach, slander, contemne, and <hi>slay</hi> another; to the end he might catch us in Gods anger: Oh! he cannot beteeme us that high honour, which he had, and yet lost it, through pride.</p>
+                  <p n="64">64, Loving Bretheren, <hi>beware of pride;</hi> especially of that which proceds from much knowing, and great learning: that is the pride of <hi>Reason,</hi> and it is the worst enemy of man: it hath never yet ad<g ref="char:EOLhyphen"/>vanced any thing, but <hi>Warre and contempt.</hi>
+                  </p>
+                  <p n="65">65. <hi>Syrach saith: The higher thou art, the humbler demeane thy selfe, pride goeth before a fall;</hi> the knowledge of our reason is foolish; if Gods spirit doth not enkindle and enlighten the knowledge, and if I could say <hi>all</hi> the Scripture <hi>by heart,</hi> and knew <hi>all Writings without Book,</hi> and yet had not the spirit of understanding; what would my know<g ref="char:EOLhyphen"/>ledge be but an invention?</p>
+                  <p n="66">66. An <hi>Opinion</hi> that a man confirmeth with the alleadging and quoting of many<note n="*" place="margin">Or, <hi>Texts.</hi>
+                     </note> sayings; is no Divine knowledge; for every<note n="*" place="margin">Or, <hi>Texts.</hi>
+                     </note>
+                     <hi>Say<g ref="char:EOLhyphen"/>ing,</hi> hath both its understanding, and meaning, according to the place where it standeth: according to the <hi>Context,</hi> according to the same matter; many times it signifies clea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> otherwise then as it is <hi>quoted,</hi> and alledged, for the proving of an opinion.</p>
+                  <p n="67">67. Herein consists true knowledge: if any man will judge a<g ref="char:EOLhyphen"/>right: his knowledge must be confirmed in him, from <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> spirit of God: it must proceed from the <hi>Centre,</hi> and not from a strange mouth, from the saying of another.</p>
+                  <p n="68">68 Or doe you thinke that the spirit of God <hi>hath ceased to speake,</hi> or that he is dead? that the spirit (if it moveth in the Divine seeing) dare not any more say, <hi>Thus saith the Lord?</hi>
+                  </p>
+                  <p n="69">69. The spirit <hi>sheweth,</hi> what he must speake: onely let him have
+<pb n="27" facs="tcp:41110:15"/> a care, and take <hi>heed</hi> of the cunning infinuations, and mixture, of the spirit of this World, and of the Imagination of the Devill, that the true humane spirit of the will, which proceeds from the fire of the soule into the light, be not infected, and poysoned in its curse.</p>
+                  <p n="70">70 There is no better Medicine or Antidote, then the desire of love, and humility; so long as he proceeds, and judgeth in love, and humility in the seeing [or Illumination] of the Divine Power: <hi>His word is Gods Word:</hi> for it is approved by the spirit of God; <hi>H E E</hi> moveth upon the Wings of the Winde; in the pure humane spirit of the will, as <hi>David</hi> saith, <hi>The Lord goeth on the wings of the winde.</hi>
+                  </p>
+                  <p n="71">71. You finde by none of the Prophets, or Apostles, that any hath spoken from the mouth of another, but from his owne peculiar Gifts, indeed <hi>sometimes</hi> the spirit hath brought in a <hi>Text</hi> and thereby <hi>cleared</hi> another Scripture, but the cheife of the matter, did flow from his owne <hi>peculiar</hi> spirit and mouth.</p>
+                  <p n="72">72. <hi>Who</hi> hath forbidden us that we should not speak from the Gifts of our Spirit: but that we must onely speake with a strange mouth: from our spirit; as Pharisaicall reason will have it.</p>
+                  <p n="73">73. <hi>Who</hi> hath made a law, that the spirit should hold its peace; who hath turned the speech of the spirit into another forme, but onely <hi>the Antichrist:</hi> who hath set himselfe up as Lord over Gods spirit; and hath changed the Mouth of the Holy Children: [Or the holy Scrip ures] into his owne colour, and will?</p>
+                  <p n="74">74. This the high Apostles never commanded us: but they said, <hi>Hold in remembrance Jesus Christ who died for us and is risen again;</hi> and bid us to teach, and preach: they have not shut up any mans spirit, and commanded him to change his tongue <hi>wholly</hi> into their words: did <hi>they not</hi> all mutually speake, every one from his owne tongue: and yet from one and the same spirit: and that was <hi>Christs.</hi>
+                  </p>
+                  <p n="75">75. We have at this day the same spirit, provided that we be Re<g ref="char:EOLhyphen"/>generate of him; and should he not now be able to say and speake what is necessary for this time; who is the cause that the Centre of the Tri-unity doth manifest and reveal it selfe? Even the <hi>seeking</hi> of man; <hi>their desire.</hi>
+                  </p>
+                  <p n="76">76. Men contend at present about Christs person: about the E<g ref="char:EOLhyphen"/>lection of God: [about the Ordinances and way of Divine wor<g ref="char:EOLhyphen"/>ship;] and therefore fight, wrangle; and revile one another: This Gods love will no longer indure, but rather manifests it selfe: that so man might see what he doth; and depart from st<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>se and con<g ref="char:EOLhyphen"/>tention, about the will of God, and enter into a right <hi>Apostolicall</hi>
+                     <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e, and no longer contend about knowledge: as hath been the practice for a long time in <hi>Babel.</hi>
+                  </p>
+                  <p n="77">
+                     <pb n="28" facs="tcp:41110:16"/>77. But that now a simple mouth must speake and declare such great things; and not one, that is high, and deeply learned: aske God wherefore he doth it; if now a Shepheard as <hi>David</hi> was, should from Gods command become a King; the World would not beleeve it, till he sa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e in <hi>royall</hi> honour.</p>
+                  <p n="78">78. Did not Christ come in a low, mean estate, and forme; also were not his Apostles <hi>meane people?</hi> This God can still doe, that he may nullifie, befoo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e, and bring to nought the selfe reason of this World: I declare unto you; we speake what we know, and testifie what we see.</p>
+                  <p n="79">79. There groweth a <hi>Lilly</hi> in the humane Essence, which shall speake the great deeds and wonders of God in its <hi>owne</hi> peculiar tongue; <hi>That it shall sound over the face of the whole Earth,</hi> Halle<g ref="char:EOLhyphen"/>lujah.</p>
+                  <p n="80">80. Therefore let none contend about opinions, all contention is the image of an <hi>Idoll;</hi> Christ hath told us of his Omnipresence; but of no opinion, when he sayd, that <hi>He would be with us alwayes even to the end of the World, Matth.</hi> 28.20. He sayd <hi>not,</hi> in this or that opinion; but when he signified his presence, he sayd, <hi>Like as the lightning ari<g ref="char:EOLhyphen"/>seth and shineth unto the West, even so shall the continuall comming of the Sonne of Man be, Matth.</hi> 24.27. And sayd, <hi>That the Kingdome of God is within us, Luke</hi> 17.21.</p>
+                  <p n="81">81. The light, and power of Christ ariseth in the <hi>internall</hi> ground in his Children; and gives them <hi>Light</hi> through the whole course of their life; and in this fountaine of light, the Kingdome of G d, is in man; if man hath not this, let him contend, professe, dispute, as much as he will; he cannot bring it into him, with any opinion: but if he hath it, then from this Fountaine meere <hi>Streames</hi> of Love will flow and issue forth; let him but heedfully minde, that the King<g ref="char:EOLhyphen"/>dome of Christ be regenerate, in him; that Christ becomes man (or be borne) in him; otherwise he is no Christian, let him be in what opinion he will, he must stand in the <hi>Vine</hi> Christ, as a living Branch, bearing fruit, <hi>John</hi> 15. Opinion is not at all available unto him, but reall saith, which workes out it selfe into Love; or is pow<g ref="char:EOLhyphen"/>erfull and effectuall in the breakings forth of Love; <hi>And worketh good workes, Gal,</hi> 5.6. hath he not the workes of Love, then he hath no faith: opinion maketh no Salvation; but it is <hi>Babel,</hi> a confusion of the tongue of unanimous Love; none is a Christian, unlesse he loveth his neighbour, and defireth [and endeavoureth] to doe him good.</p>
+                  <p n="82">82. Grace <hi>imputed</hi> from without: [or an externall appropria<g ref="char:EOLhyphen"/>tion and imputation of grace] without the innate filiall child-like grace, is wholly false; when <hi>Christ worketh</hi> in man, then he is a Christian; and then the suffering merits and satisfaction of Christ,
+<pb n="29" facs="tcp:41110:16"/> doe availe him; when he hath him in him for an Intercessour that hath done it, that he doth it also in him [<hi>Viz.</hi> destroy sin, death, and Hell in him] and put his merit on him; then the Kingdome of God is in <hi>that same merit;</hi> otherwise all ima<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>inary opinions and ap<g ref="char:EOLhyphen"/>prehensive conjectures are false; no worke pleaseth God, but what hee himselfe worketh, by his spirit in Man; therefore let us be Children of Christ, and not Children of Images, Opinions, and mentall Idols.</p>
+                  <p n="83">83. Christ hath bequeathed us his Kingdome in his <hi>Testaments;</hi> he that will receive the same, must become a child [he must be re<g ref="char:EOLhyphen"/>generate in the spirit of Christ] else there is no <hi>Inheritance:</hi> To worke repentance, is better then a desire to know much; if the knowledge be not given of God unto Man, he will not understand the <hi>Ground</hi> of the <hi>Divine Mysteries;</hi> but if it be given him, then he needs no opinion [or mentall Idoll.] To continue stedfast in the humility and simplicity of Christ, and to hold close unto his Love and grace, without contemning any, is <hi>Good Christianity;</hi> all that speaketh of it selfe is <hi>Babel,</hi> in Christ we are all members, and one<g ref="char:EOLhyphen"/>ly <hi>One.</hi>
+                  </p>
+                  <p n="84">84. And so I commend all those that seeke and desire the <hi>Childe Jesus,</hi> into the meek, and effectuall working Love of Jesus Christ; that he may be Conceived. Incarnate, and borne in <hi>all,</hi> and then strife and contention hath an end: <hi>When the Seed of the Woman breaks the head of the Serpent,</hi> we come againe into the <hi>Temperature;</hi> and are in Christ onely <hi>one,</hi> as a Tree in many Boughes and Branches: <hi>A<g ref="char:EOLhyphen"/>MEN.</hi>
+                  </p>
+               </div>
+            </body>
+            <back>
+               <div type="table_of_contents">
+                  <pb facs="tcp:41110:17"/>
+                  <pb facs="tcp:41110:17"/>
+                  <head>A TABLE OF THE CONTENTS.</head>
+                  <list>
+                     <label>I. EPISTLE.</label>
+                     <item>
+                        <hi>1. A</hi> Christian Salutation: <hi>3.</hi> What a Chri<g ref="char:EOLhyphen"/>stian is, and how he commeth to be capa<g ref="char:EOLhyphen"/>ble of so high a title: <hi>20.</hi> That true ju<g ref="char:EOLhyphen"/>stification consists not in an externall imputation of grace, but in the reall Regeneration in the spirit of Christ: <hi>28.</hi> How we are justified by Faith in Christ. <hi>39.</hi> Wherein true Faith the immor<g ref="char:EOLhyphen"/>tall Seed (or Divine Love-<hi>Ens</hi> whence the New-birth ariseth) doth cons<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>st; and how it is preser<g ref="char:EOLhyphen"/>ved. <hi>46.</hi> Not lip-labour, or outward formes of word-worship doe manifest the new-birth in man; but the reall practice of Christianity. <hi>48.</hi> That the eager contending and censuring that is practised in the unprofitable Pratings, is but a meere Antichri<g ref="char:EOLhyphen"/>stian <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>uske, voyd of Love and Faith. <hi>52.</hi> That con<g ref="char:EOLhyphen"/>tention about opinions, is but a deceit of the Devill. <hi>53.</hi> Wherein our Religion consists. <hi>54.</hi> What evill a man shall finde in himselfe, if he beholds himselfe in the Looking-glasse of the Law and Gospell. <hi>62.</hi> How the Menster of the Serpent, <hi>Viz.</hi> False desire; and all evill inclinations, and properties come to be in man. <hi>69.</hi> How a man may repent and get rid of th<gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>, <gap reason="illegible" resp="#keyers" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> obtaine the Pearle of the New-birth.</item>
+                     <label>
+                        <pb facs="tcp:41110:18"/>
+                        <hi>II. Epistle.</hi>
+                     </label>
+                     <item>
+                        <hi>1.</hi> A Salutation with an hearty congratulation. <hi>5.</hi> The way wherein he attained his deep knowledge, and high illumination, and how his Divine light was withdrawne for a time. <hi>14.</hi> Cut of what Booke he wrote. <hi>17.</hi> That outward reason, unlesse it be en<g ref="char:EOLhyphen"/>kindled with Gods light, is opposite to the Divine Mystery. <hi>22.</hi> How we are to judge of the severall C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>sts, judgements, and Writings of men. <hi>37.</hi> The touch-stone or true note of Gods Children, also of the true way to come unto God, wherein the Pearle of Divine light is obtained. <hi>42.</hi> That a true Christian hath no controversie with any body, in reference to the variety of Gifts, but dyeth in selfe-denyall to all controversies. <hi>46.</hi> Whence it is that the children of God doe clash in their knowledge. <hi>47.</hi> That Zyon must be found within, and manifest its vertue by good example to others. <hi>52.</hi> An excellent answer to the opinion of <hi>Swenckfelt, Weigelius, &amp;c. 66.</hi> Con<g ref="char:EOLhyphen"/>cerning his Books, and what they contain. <hi>78.</hi> That he wrote not for the proud cavilling wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>elings of this World, but for the Children that hunger and thirst after their first Eternall Mother.</item>
+                     <label>III. Epistle.</label>
+                     <item>
+                        <hi>1.</hi> He rejoyceth to see that any high persons doe looke after the Divine Mysteries, being it is so rare a thing in the World: Temporall honour and worldly pleasure being a clog thereunto. <hi>2.</hi> That his intent was not to publish his Writings, but to keep them as a
+<pb facs="tcp:41110:18"/> memoriall to himselfe; and that in respect of his outward man he had no fitnesse or capacity to write of the Mysteries; but when the Garland of wisdome was set upon him, he wrote those hints, and spark<g ref="char:EOLhyphen"/>lings of Divine light which he saw in the Mystery, as is to be seen in his first Book <hi>Aurora. 6.</hi> That he foresaw his persecution which befell him; after which he intended not to write any more; but the Lilly returning with an hundred fold increase, stirred up his w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ll to write againe; but not according to the fiction and dictation of Reason. <hi>10.</hi> That in the space of nine moneths, he wrote three Bookes, <hi>Viz.</hi> the <hi>Three Principles</hi> [which are an hundred st<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>eets <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n his owne hand writing:] the <hi>Threefold Life</hi> [which hath about sixty sheets:] and the <hi>Forty Questions</hi> [which containe twenty eight sheets.] <hi>15.</hi> Why his Writings will seeme strange to the Reader. <hi>16.</hi> The transcendent vertue of wise<g ref="char:EOLhyphen"/>domes Diadem, or <hi>Sophias</hi> Pearle, which the true earnest Seeker obtaineth. <hi>21.</hi> That his Writings are not the worke of his Reason and Ʋnderstanding; and that although he never Studyed in all his life, yet he must manifest and bring to light such My<g ref="char:EOLhyphen"/>steries, as all the high Schooles in the height of their acute Reason, and Reasonings were not able to doe; yet he attributes nothing to himselfe, but accounts himselfe a meere Instrument of God, wherewith God effecteth what he pleaseth. <hi>28.</hi> Concerning his Booke <hi>Aurora;</hi> and that in the other three Bookes, the Mysteries are more cleare; and profound, or deeper grounded. <hi>34.</hi> That he had the sight and knowledge of the Ʋniversall Tincture, though no
+<pb facs="tcp:41110:19"/> manuall Art; and that in his writings he hath set forth an open Gate unto the Divine Mystery, where<g ref="char:EOLhyphen"/>unto God will stirre up Labourers of his owne. <hi>35.</hi> Why his VVritings were not more accurate according to the Art of Reason and Rhetorique. <hi>36.</hi> VVhy more then one Booke was made, and why it were well that of all onely one might be made. <hi>37.</hi> VVhence Babell is arisen, and how it is drawing to its Period. <hi>39.</hi> How he is to be understood when he writes <hi>We,</hi> and when <hi>I.</hi>
+                     </item>
+                     <label>
+                        <hi>IV. Epistle. The first Letter, to</hi> Paul Keym, <hi>con<g ref="char:EOLhyphen"/>cerning the thousand yeares Sabbath.</hi>
+                     </label>
+                     <item>
+                        <hi>4.</hi> He is glad to see the Pearle to be sought for in the power and light of the holy Spirit; the mani<g ref="char:EOLhyphen"/>festation of which light doth onely discover what the Hypocriticall Zyon is, and what the true Zyon is. <hi>6.</hi> How we are to wage our Spirituall warfare, and fight for the Crowne of life in Christ Jesus. <hi>9.</hi> That it is not enough to exclaime against Babel, but seriously to goe out from Babel. <hi>11.</hi> That he is none of Gods Builders, that will pull downe, unlesse he can tell how to rebuild it better. <hi>13.</hi> That the darke Mysteries are onely to be knowne in the holy Ghost, in the light whereof a man may search out, and know all things. <hi>17.</hi> That there be many Masters that will judge of the Divine Mysteries, and yet
+<pb facs="tcp:41110:19"/> were never sent by God. <hi>21.</hi> Concerning Babel, and her Cain-like imprecations. <hi>24.</hi> That shee is her owne Prophetesse in the Mystery of iniquity. <hi>26.</hi> And that shee destroyeth her selfe. <hi>28.</hi> Concerning Zyon, how it shall arise in great misery and tribu<g ref="char:EOLhyphen"/>lation, and breake forth and flourish, but not con<g ref="char:EOLhyphen"/>tinue to the End of the World. <hi>37.</hi> That a man ought not to make conclusions upon the Divine Mysteries without the command and light of God. <hi>38.</hi> Many considerations concerning the thousand yeares Sabbath, the first Resurrection, and the last Judgement. <hi>73.</hi> Concerning the End of Babels downefall. <hi>78.</hi> Concerning his Booke <hi>Aurora. 84.</hi> That his Writings are not to be looked upon, as comming from a man of high Arts and endow<g ref="char:EOLhyphen"/>ments in this World. <hi>87.</hi> Why he gives not <hi>Paul Keym</hi> a large Answer upon his Book of the thou<g ref="char:EOLhyphen"/>sand yeares Sabbath. <hi>91.</hi> Concerning the Soule separated. <hi>93.</hi> That the manifestation of the thou<g ref="char:EOLhyphen"/>sand yeares Sabbath is not of much importance to the VVorld. <hi>95.</hi> That the workes of the righteous (both good and evill workes) shall be brought be<g ref="char:EOLhyphen"/>fore the judgement. <hi>99.</hi> How every one shall arise, and answer for himselfe at the Resurrection. <hi>110.</hi> Of the great Mystery, and Phylosophers stone. <hi>113.</hi> Why the Magists (or those who had the true knowledge of the Divine Magick, or reall wise<g ref="char:EOLhyphen"/>dome) wrote darkely of the Tincture. <hi>115.</hi> Whence the outward instigation to manifest the Mystery proceeds. <hi>117.</hi> Why the Prophets, and Christ spake Parabollically.</item>
+                     <label>
+                        <pb facs="tcp:41110:20"/>
+                        <hi>V. Epistle. The Second Letter to</hi> Paul Keym.</label>
+                     <item>
+                        <hi>1.</hi> Still perceiving his zealous inflamed minde he tenders him his Service as a debtor in the Love of Christ. <hi>2.</hi> And directs him to the fountaine of knowledge. <hi>4.</hi> that being we are dead in <hi>Adam</hi> to the Divine understanding, we know no more of God then the bare History, unlesse we be borne a<g ref="char:EOLhyphen"/>gaine. <hi>9.</hi> As <hi>Adam</hi> by his imagination after the dominion of this World became earthly; so like<g ref="char:EOLhyphen"/>wise by imagination and serious desire, we are re<g ref="char:EOLhyphen"/>generate in God, and obtaine the new body; also how the new body is in the old body of this World, and receiveth Divine understanding. <hi>18.</hi> Where<g ref="char:EOLhyphen"/>fore God created Angels and men. <hi>19.</hi> That the will of the externall man would faine keepe the Divine light in its owne possession, but it cannot. <hi>22.</hi> Why man is created into the externall World. <hi>23.</hi> That by earnest longing, and spirituall hunger (the workings of true Faith the immortall Seed) we apprehend the Kingdome of Heaven within us. <hi>25.</hi> How, and wherein the poore imprisoned soule findeth rest. <hi>26.</hi> Why it must beare the curse and Crosse in this life, and stand in such anguish, and earnestly seeke the Divine rest. <hi>32.</hi> How the fire of the soule becomes darke and evill. <hi>33.</hi> How it re-obtaines the Divine light. <hi>35.</hi> How the Noble Twig, or Plant of Paradise, the Divine Image is op<g ref="char:EOLhyphen"/>posed by the Devill, and how the Noble Twig, or
+<pb facs="tcp:41110:20"/> Seed of Faith defends it selfe. <hi>40.</hi> Concerning the Threefold life in man. <hi>50.</hi> That all conjectures and opinions, and interpretations, of the Divine Myste<g ref="char:EOLhyphen"/>ries from the Hystory without the knowledge of God in the holy Ghost, are onely from the Babilonicall Schoole. <hi>55.</hi> That the true Image of God is brought forth under Tribulatiun, and hard combates against Reason, and flesh and blood. <hi>59.</hi> That albeit the Kingdome of Heaven be as small as a graine of Mustard-seed, yet if it be well preserved it becom<g ref="char:EOLhyphen"/>meth a great Tree, whereon the fruits of Paradise grow. <hi>62.</hi> Concerning the thousand yeares Sabbath. <hi>76.</hi> Concerning the Revelation, and who onely is fit to interpret it. <hi>81.</hi> How a man must try his insti<g ref="char:EOLhyphen"/>gation, and learne whether his knowledge be from the Astrall Schoole of this World, or from the Di<g ref="char:EOLhyphen"/>vine Schoole of <hi>Sophia.</hi>
+                     </item>
+                     <label>VI. Epistle.</label>
+                     <item>
+                        <hi>1.</hi> That man being the extract of all the Three Principles of the Divine Being hath the science of the Eternall speaking word of God within him. <hi>4.</hi> Whence man understands all things, and not the creatures. <hi>8.</hi> That in God, all Beings are onely one, and how they are severally creaturized. <hi>12.</hi> Whence the forme of bodies arise. <hi>18.</hi> Whence the mixture of good, and evill comes to be in the vari<g ref="char:EOLhyphen"/>ous bodies of the Earth. <hi>19.</hi> in what degrees, or distinct centres all things are contained. <hi>20.</hi> Of the first Centre. <hi>21.</hi> Of the Second Centre. <hi>25.</hi> Of the third Centre. <hi>27.</hi> Whence the third Principle, this
+<pb facs="tcp:41110:21"/> visible World doth arise. <hi>29.</hi> Of the two-fold fire and light. <hi>32.</hi> Whence the false light ariseth, and how it worketh, and also of the true light. <hi>46.</hi> Whence the various properties, and vaine imagina<g ref="char:EOLhyphen"/>tions arise in man, also how Man is become the beast of all Beasts; also why Man cannot attaine true Rest in this body. <hi>52.</hi> Why it is the most necessary for a man to learne to know himselfe, that so his knowledge may be fundamentall, and his understan<g ref="char:EOLhyphen"/>ding essentiall in the Divine Being; else his seeking obtaines onely a shadow of phansie. <hi>68.</hi> That all States and Orders of this World are to seeke for this reall light to guide them. <hi>69.</hi> What Reason is, and how it may be used aright. <hi>71.</hi> What all seekers of Mysteries, and lovers of Arts ought first to doe. <hi>76.</hi> Of God. <hi>77.</hi> Of Nature. <hi>78.</hi> Of the Originall of all things, and the ground of the four Elements. <hi>80.</hi> Of that which is contained in the Table of the <hi>Three Principles.</hi>
+                        <list>
+                           <item>Note, That this sixt Epistle is a preface, or Introduction to the Table of the <hi>Three Prin<g ref="char:EOLhyphen"/>ciples,</hi> which is a Scheam, or Map, wherein is briefly deciphered, and pourtrayed, how God is to be considered without Nature in himselfe, and then in Nature according to the <hi>Three Principles</hi> of the Divine manifesta<g ref="char:EOLhyphen"/>tion: also what Heaven, and Hell, World, Time, and Eternity, together with all Creatures are; likewise whence every thing hath taken its Originall; and what the visible and invisible Being is.</item>
+                        </list>
+                     </item>
+                     <label>
+                        <pb facs="tcp:41110:21"/>
+                        <hi>VII. Epistle.</hi>
+                     </label>
+                     <item>
+                        <hi>1.</hi> An exhortation to goe out from Babel that holds us Captive. <hi>5.</hi> And that by the Regenera<g ref="char:EOLhyphen"/>tion in the spirit of Christ. <hi>6.</hi> Who onely is a member on the body of Jesus Christ. <hi>7.</hi> How the grand Mystery lyeth in man, <hi>13.</hi> What the imputed Grace is, that makes a true Christian. <hi>14.</hi> VVhat the Temple of the Holy Ghost in man is. <hi>15.</hi> How the Divine Speaking, or Operation of the Eternall Word did disappeare in man, and how it is regained. <hi>16.</hi> That this present Cain-like Age speakes forth by the power of Money, many thousand Soldiers to maintaine its selfe-will. <hi>17.</hi> An admonishment to take heed of the faithlesse <hi>Turba</hi> that devoures its owne Father and Mother, that brings it forth. <hi>19.</hi> Likewise to beware of devoting our Conscience to any supposed contri<g ref="char:EOLhyphen"/>ved Religion, for which men contend and fight, and what the onely true saving Faith is. <hi>23.</hi> That good Friends shall be tryed, and faithfull Friends shall love one another.</item>
+                     <label>VIII. Epistle.</label>
+                     <item>
+                        <hi>1.</hi> VVhence Controversie and contention a<g ref="char:EOLhyphen"/>bout the diversity of opinions is arisen in the VVorld; also what a Christian is, and how the imputation of Christs righteousnesse is to bee
+<pb facs="tcp:41110:22"/> understood. <hi>18.</hi> Of the Serpent, which after the Curse must eate earth, and creep upon the Belly. <hi>27.</hi> Of Paradise and the Garden of Eden. <hi>29.</hi> Whether the Beasts (being they were in Paradise, and moreover wholly earthly) did also feed upon Paradisicall fruit? <hi>31.</hi> VVhether the Beasts be<g ref="char:EOLhyphen"/>fore the Curse, were so wilde, hairy, and rugged, as now they are?</item>
+                     <label>IX. Epistle.</label>
+                     <item>Man himselfe is the Booke wherein all Myste<g ref="char:EOLhyphen"/>ries are contayned. <hi>8.</hi> The outward flesh engen<g ref="char:EOLhyphen"/>dred of the foure Elements of this VVorld cannot inherit the Kingdome of God; but the Divine body regenerate of the immortall VVord. <hi>12.</hi> That through strife or contest in Nature, the Eternall Mystery is made manifest. <hi>16.</hi> All that Babell teacheth of an externall imputed righteousnesse; and a particular Election is without Ground. <hi>21.</hi> No selfe-reason maketh a child of God. <hi>29.</hi> Hee that is in earnest shall find the Mystery. <hi>31.</hi> That to continue stedfast in humility and resignation to Christ, is a good meane to hinder all vaine constel<g ref="char:EOLhyphen"/>lations, and mixture of phansie in our Divine knowledge.</item>
+                     <label>X. Epistle.</label>
+                     <item>It sheweth what the Antichrist in man is; and also how he must be slaine and mortified; also what a Christian is, and how he is in the new-birth;
+<pb facs="tcp:41110:22"/> in briefe, how a man must dye to Selfe; and live to God; and attaine Divine Contemplation, Vi<g ref="char:EOLhyphen"/>sion, and Fruition.</item>
+                     <label>XI. Epistle.</label>
+                     <item>That all true fundamentall knowledge of GOD must arise from the Revelation and Operation of the Divine spirit within us: That selfe-love is the great and potent Enemy, when the marriage of the Lamb is to be celebrated in man. That the Chil<g ref="char:EOLhyphen"/>dren of God have been usually persecuted by those that have pretended to teach the wayes of God. That the Pearle which God did entrust the Author with, is so hid, that the unworthy and scornefull doe not see it, but remaine blind in the wisedome of their owne Reason.</item>
+                     <label>XII. Epistle.</label>
+                     <item>That man cannot learne truely to know himselfe by the sharpe searchings of his outward Reason; also whence the true living understanding of God, and his written Word doth arise in man.</item>
+                     <label>XIII. Epistle.</label>
+                     <item>It sheweth what Temptation and trouble of minde is; whence it proceedeth, and how it is to be re<g ref="char:EOLhyphen"/>sisted and remedied.</item>
+                     <label>
+                        <pb facs="tcp:41110:23"/>
+                        <hi>XIV. Epistle.</hi>
+                     </label>
+                     <item>That the buddings of the precious Corall in the Soules of men doe foretell the Summer of Christ. That God convinceth the World by meane simplici<g ref="char:EOLhyphen"/>ty: Also that he hath given the wonders of his hid<g ref="char:EOLhyphen"/>den wisedome in Writings to the World for the light thereof. That God giveth the Pearle freely.</item>
+                     <label>XV. Epistle.</label>
+                     <item>That a Christian Soule doth freely impart its Love and good will unto others, as a pleasant flower its vertue and smell: That being we are Plants of God, we ought not to be discouraged by any outward calamity that might befall us, but presse forward with constant perseverance, and grow up in the life of God, and bring forth Divine fruit: How the Apostles on the day of Pentecost were under<g ref="char:EOLhyphen"/>stood to speake many Languages, when as they spake but one onely: And how it is likewise possi<g ref="char:EOLhyphen"/>ble for one man to understand the spirit and mean<g ref="char:EOLhyphen"/>ing of another in the deepest Ground: That albeit he useth some Latin termes in his Writings, yet his meaning resteth not barely in the signification of the Latin tongue, but much more in the lan<g ref="char:EOLhyphen"/>guage of nature: That the Ruine of Babel is nigh at hand.</item>
+                     <label>XVI. Epistle.</label>
+                     <item>That the knowledge of the Centre of all Beings
+<pb facs="tcp:41110:23"/> giveth a right understanding of Election: That all disputing is unprofitable without the light, and spirit of God: The way whereby a man at<g ref="char:EOLhyphen"/>taines fundamentall or experimentall knowledge of God.</item>
+                     <label>XVII. Epistle.</label>
+                     <item>Concerning Election, and the ground of reall Knowledge.</item>
+                     <label>XVIII. Epistle.</label>
+                     <item>How the Article of Election is to be understood: Also whath the Sound of the seventh Trumpet de<g ref="char:EOLhyphen"/>clareth.</item>
+                     <label>XIX. Epistle.</label>
+                     <item>Of the will and Decree of God concerning man. At the <hi>31. Verse</hi> begins a Prediction concerning Christendome.</item>
+                     <label>XX. Epistle.</label>
+                     <item>A Description what is contained in his Booke of Predestination. At the <hi>23. Verse</hi> begins a won<g ref="char:EOLhyphen"/>derfull Prophesie.</item>
+                     <label>XXI. Epistle.</label>
+                     <item>That the Treatise of Election doth shew how the seeming Contradictory places of Scripture are
+<pb facs="tcp:41110:24"/> to be understood in their owne native sense and meaning.</item>
+                     <label>XXII. Epistle.</label>
+                     <item>That Reason though never so acute, and well ex<g ref="char:EOLhyphen"/>ercised in Logick attaines not the Knowledge of the Divine Mysteries without the light of God: Also concerning the processe of the noble Tincture, or <hi>Panacea.</hi>
+                     </item>
+                     <label>XXIII. Epistle.</label>
+                     <item>That the Crosse is the first marke wherewith No<g ref="char:EOLhyphen"/>ble <hi>Sophia</hi> signeth her Children: What the Temple of the Holy Ghost is in man, also how Christ dwel<g ref="char:EOLhyphen"/>leth in man: A briefe Interpretation of the Nor<g ref="char:EOLhyphen"/>therne Crowne, mentioned in the <hi>Aurora:</hi> Of the language of nature, and the Phylosophers Stone.</item>
+                     <label>XXIV. Epistle.</label>
+                     <item>An Answer to a Question, why the Statue of one that was deceased wept.</item>
+                     <label>XXV. Epistle.</label>
+                     <item>Of the first intent of the Author, when he be<g ref="char:EOLhyphen"/>gan to write: That God doth manifest himselfe in all things, but especially in man: VVhat man hath lost in his fall: Also what he hath retained after the Fall: Of the heavenly man, and also of the Bestiall body.</item>
+                     <label>
+                        <pb facs="tcp:41110:24"/>
+                        <hi>XXVI. Epistle.</hi>
+                     </label>
+                     <item>That if the Authours wisedome were from the Schoole of this World, the World would embrace and Love it: A Prediction of great rents and di<g ref="char:EOLhyphen"/>visions in Christendome: Of the Lilly: Of the An<g ref="char:EOLhyphen"/>tichrist and Babel: That there commeth a time that is not from the Starry Heaven.</item>
+                     <label>XXVII. Epistle.</label>
+                     <item>An excellent description of the Noble Pearle: That his knowledge is a meere gift of God: A serious Protestation that he wrote onoly according to the dictation and instigation of the Spirit.</item>
+                     <label>XXVIII. Epistle.</label>
+                     <item>That we ought mutually to helpe one another in our severall Gifts.</item>
+                     <label>XXIX. Epistle.</label>
+                     <item>That the Contentions and Dissentions in Reli<g ref="char:EOLhyphen"/>gion shall be reconciled, and enter into the Tempe<g ref="char:EOLhyphen"/>rature.</item>
+                     <label>XXX. Epistle.</label>
+                     <item>That God will have a pure resigned Soule, and therefore wee ought patiently to undergoe the re<g ref="char:EOLhyphen"/>proach of the World.</item>
+                     <label>
+                        <pb facs="tcp:41110:25"/>
+                        <hi>XXXI. Epistle.</hi>
+                     </label>
+                     <item>That the ayme of his desire in writing was to serve his brethren: That he foresaw great alterations, and calamities approaching upon Christendome.</item>
+                     <label>XXXII. Epistle.</label>
+                     <item>How the Soule may search aright for knowledge and illumination in the Mystery of Nature and Grace: That a Lilly blossometh in the Northerne Countries.</item>
+                     <label>XXXIII. Epistle.</label>
+                     <item>Of his Persecution by <hi>Gregory Rickter:</hi> Also of Truths best defence.</item>
+                     <label>XXXIV. Epistle.</label>
+                     <item>That true Christians are here onely Pilgrims and strangers; and must walke through the Thistles and Thornes of Gods Anger to their native home: That the present Christendome is much adulterated and sophisticated in her Love: That the time of Tryall is at hand.</item>
+                     <label>XXXV. Epistle.</label>
+                     <item>Of the opposition against the way to Christ: That the Enemies of Christ are to be overcome by Patience and Prayer, and not with the temporall Sword. Ad<g ref="char:EOLhyphen"/>vise to his Wife how to carry her selfe in the Tumult at <hi>Gerlitz.</hi> Of his acquaintance with some Noble<g ref="char:EOLhyphen"/>men of the Prince Elector of <hi>Saxony's</hi> Counsell.</item>
+                  </list>
+                  <trailer>The End.</trailer>
+               </div>
+               <div type="errata">
+                  <pb facs="tcp:41110:25"/>
+                  <head>Errata.</head>
+                  <p>Preface. page 2. line 30. b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ot out <hi>who.</hi> p. 10. l. 1. r. <hi>being freed.</hi>
+                  </p>
+                  <p>Epistles, p. 20 l. 10. for <hi>Eternall,</hi> r. <hi>Externall.</hi> p. 24. l. 10. r. <hi>Soules property.</hi> p. 33. l. 18. r. <hi>or.</hi> p. 56. l. 14. r. <hi>naturally.</hi> p. 64. l. 14 r. <hi>their.</hi> p. 8<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. l. 11. r. <hi>play.</hi> p. 102. l. 27. r. <hi>when,</hi> l. 29. r. <hi>Imagination.</hi> p. 132. l. 25. r. <hi>out of.</hi> p. 139. l. 31. r. <hi>Men and Devils</hi> p. 142 l. 26. r. <hi>Devills and Men.</hi> p. 166. l. 24. r. <hi>wholly.</hi> p. 169. l 41. r. <hi>putteth</hi> p. 177. l. 33. r. <hi>conceived.</hi> p. 185. l. 31. r. <hi>Father.</hi> p. 187. l. 6. r. <hi>Pedanticall.</hi> p. 195. l. 17. r. <hi>conjuncture.</hi> p. 196. l. 23. blot out <hi>which</hi> p. 197. l. 7. r. <hi>Writings.</hi> p. 201. l. 21. r. <hi>you yee.</hi> p. 204. l. 24. r. <hi>revealed.</hi> p. 205. l. 30. r. <hi>Soule.</hi>
+                  </p>
+                  <p>Testimonys p. 4. l. 11. blot out <hi>thing.</hi> p. 8. l. 39. r. <hi>the might and night of darknesse.</hi>
+                  </p>
+                  <p>Warning, p. 14. l. last. r. <hi>that it is.</hi> p. 16. l. 40. for <hi>professe,</hi> r. <hi>possesse.</hi>
+                  </p>
+                  <p>Table, p 5. l. 28. r. <hi>wrote darkly.</hi>
+                  </p>
+               </div>
+            </back>
+         </text>
+      </group>
+   </text>
+</TEI>
